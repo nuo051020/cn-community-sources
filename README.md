@@ -4,6 +4,19 @@
 
 能力、token 与边界的完整说明见 [`SKILL.md`](SKILL.md)。
 
+可以用这个 Agent Skill 搜索百度贴吧帖子、从 Steam 中文评测中整理玩家反馈。需要采集小红书笔记、B站视频评论或知乎回答时，可接入按调用计费的 Just One API。
+
+An agent skill for Chinese social media research. Search Baidu Tieba threads and collect player feedback from Chinese Steam reviews. Use Just One API for Xiaohongshu, Bilibili and Zhihu content and comments.
+
+## 安装到 Codex
+
+在项目目录执行以下命令。运行采集脚本需要 Python 3.11 或更高版本。
+
+```bash
+npx skills add nuo051020/cn-community-sources --skill cn-community-sources -a codex
+.agents/skills/cn-community-sources/run.sh doctor --json
+```
+
 ## 快速开始
 
 ```bash
