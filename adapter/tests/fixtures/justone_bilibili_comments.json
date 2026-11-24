@@ -1,0 +1,255 @@
+{
+  "code": "0",
+  "message": "None",
+  "success": true,
+  "truncated": false,
+  "endpoint_id": "<discovered-at-runtime>",
+  "data": {
+    "code": 0,
+    "message": "0",
+    "ttl": 1,
+    "data": {
+      "replies": [
+        {
+          "rpid": 317227061264,
+          "oid": 113566099315027,
+          "root": 0,
+          "parent": 0,
+          "ctime": 1789215135,
+          "like": 1,
+          "rcount": 1,
+          "member": {
+            "uname": "骨架太有操作",
+            "mid": "3546946528610928",
+            "level_info": {
+              "current_exp": 0,
+              "current_level": 3,
+              "current_min": 0,
+              "next_exp": 0
+            },
+            "vip": {
+              "accessStatus": 0,
+              "avatar_subscript": 0,
+              "dueRemark": "",
+              "label": {
+                "bg_color": "",
+                "bg_style": 0,
+                "border_color": "",
+                "img_label_uri_hans": "",
+                "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/d7b702ef65a976b20ed854cbd04cb9e27341bb79.png",
+                "img_label_uri_hant": "",
+                "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/KJunwh19T5.png",
+                "img_label_uri_i18n": "",
+                "img_label_uri_i18n_static": "",
+                "label_goto": null,
+                "label_id": 0,
+                "label_theme": "",
+                "label_type": 0,
+                "path": "",
+                "text": "",
+                "text_color": "",
+                "use_img_label": true
+              },
+              "nickname_color": "",
+              "themeType": 0,
+              "vipDueDate": 0,
+              "vipStatus": 0,
+              "vipStatusWarn": "",
+              "vipType": 0
+            }
+          },
+          "content": {
+            "message": "都是骗人的哪有什么双向暗恋我本以为是真的就跟他表白了他确实答应我了后面三天之后他又不承认了再后来我们俩一起去参加了一个我朋友的生日然后因为一个游戏他一直骂我把我骂哭了他就跑了5年啊我喜欢了他5年在这之后我想过放下最后还是没能放下T^T"
+          },
+          "replies": [
+            {
+              "rpid": 317227243568,
+              "oid": 113566099315027,
+              "root": 317227061264,
+              "parent": 317227061264,
+              "ctime": 1789215266,
+              "like": 0,
+              "rcount": 0,
+              "member": {
+                "uname": "骨架太有操作",
+                "mid": "3546946528610928",
+                "level_info": {
+                  "current_exp": 0,
+                  "current_level": 3,
+                  "current_min": 0,
+                  "next_exp": 0
+                },
+                "vip": {
+                  "accessStatus": 0,
+                  "avatar_subscript": 0,
+                  "dueRemark": "",
+                  "label": {
+                    "bg_color": "",
+                    "bg_style": 0,
+                    "border_color": "",
+                    "img_label_uri_hans": "",
+                    "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/d7b702ef65a976b20ed854cbd04cb9e27341bb79.png",
+                    "img_label_uri_hant": "",
+                    "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/KJunwh19T5.png",
+                    "img_label_uri_i18n": "",
+                    "img_label_uri_i18n_static": "",
+                    "label_goto": null,
+                    "label_id": 0,
+                    "label_theme": "",
+                    "label_type": 0,
+                    "path": "",
+                    "text": "",
+                    "text_color": "",
+                    "use_img_label": true
+                  },
+                  "nickname_color": "",
+                  "themeType": 0,
+                  "vipDueDate": 0,
+                  "vipStatus": 0,
+                  "vipStatusWarn": "",
+                  "vipType": 0
+                }
+              },
+              "content": {
+                "message": "我们只在起了三天那三天我是多么幸福，如今他又有新的女朋友了我已经数不清这是第几个了T_T我一直在哭"
+              },
+              "replies": [],
+              "all_count": null,
+              "dialog": 317227243568
+            }
+          ],
+          "all_count": 85,
+          "dialog": 0
+        },
+        {
+          "rpid": 313638978129,
+          "oid": 113566099315027,
+          "root": 0,
+          "parent": 0,
+          "ctime": 1789131395,
+          "like": 0,
+          "rcount": 0,
+          "member": {
+            "uname": "3豆努饭团3",
+            "mid": "1056084983",
+            "level_info": {
+              "current_exp": 0,
+              "current_level": 4,
+              "current_min": 0,
+              "next_exp": 0
+            },
+            "vip": {
+              "accessStatus": 0,
+              "avatar_subscript": 0,
+              "dueRemark": "",
+              "label": {
+                "bg_color": "",
+                "bg_style": 0,
+                "border_color": "",
+                "img_label_uri_hans": "",
+                "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/d7b702ef65a976b20ed854cbd04cb9e27341bb79.png",
+                "img_label_uri_hant": "",
+                "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/KJunwh19T5.png",
+                "img_label_uri_i18n": "",
+                "img_label_uri_i18n_static": "",
+                "label_goto": null,
+                "label_id": 0,
+                "label_theme": "",
+                "label_type": 0,
+                "path": "",
+                "text": "",
+                "text_color": "",
+                "use_img_label": true
+              },
+              "nickname_color": "",
+              "themeType": 0,
+              "vipDueDate": 0,
+              "vipStatus": 0,
+              "vipStatusWarn": "",
+              "vipType": 0
+            }
+          },
+          "content": {
+            "message": "这本书叫什么[星星眼]"
+          },
+          "replies": [],
+          "all_count": 85,
+          "dialog": 0
+        },
+        {
+          "rpid": 313329749121,
+          "oid": 113566099315027,
+          "root": 0,
+          "parent": 0,
+          "ctime": 1788860276,
+          "like": 0,
+          "rcount": 0,
+          "member": {
+            "uname": "罪名Sumi",
+            "mid": "3546606940981498",
+            "level_info": {
+              "current_exp": 0,
+              "current_level": 3,
+              "current_min": 0,
+              "next_exp": 0
+            },
+            "vip": {
+              "accessStatus": 0,
+              "avatar_subscript": 0,
+              "dueRemark": "",
+              "label": {
+                "bg_color": "",
+                "bg_style": 0,
+                "border_color": "",
+                "img_label_uri_hans": "",
+                "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/d7b702ef65a976b20ed854cbd04cb9e27341bb79.png",
+                "img_label_uri_hant": "",
+                "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/KJunwh19T5.png",
+                "img_label_uri_i18n": "",
+                "img_label_uri_i18n_static": "",
+                "label_goto": null,
+                "label_id": 0,
+                "label_theme": "",
+                "label_type": 0,
+                "path": "",
+                "text": "",
+                "text_color": "",
+                "use_img_label": true
+              },
+              "nickname_color": "",
+              "themeType": 0,
+              "vipDueDate": 1723996800000,
+              "vipStatus": 0,
+              "vipStatusWarn": "",
+              "vipType": 1
+            }
+          },
+          "content": {
+            "message": "谢谢财神"
+          },
+          "replies": [],
+          "all_count": 85,
+          "dialog": 0
+        }
+      ],
+      "top_replies": [],
+      "cursor": {
+        "is_end": false,
+        "all_count": 85,
+        "pagination_reply": {
+          "next_offset": "CAESEDE4MzMyMDE5ODk3MzU3NzQaADICCCQ="
+        }
+      }
+    }
+  },
+  "next_step": {
+    "action": "call_endpoint",
+    "endpoint_id": "<discovered-at-runtime>",
+    "hint": "Use these params to fetch the next page or more results.",
+    "params": {
+      "aid": "113566099315027",
+      "cursor": "<cursor>"
+    }
+  },
+  "warnings": []
+}

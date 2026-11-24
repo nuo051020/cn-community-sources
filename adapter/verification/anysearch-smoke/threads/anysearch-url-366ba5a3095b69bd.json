@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0.0",
+  "platform": "anysearch",
+  "thread_id": "anysearch:url:366ba5a3095b69bd",
+  "title": "一名男生的高中暗恋故事",
+  "url": "https://zhuanlan.zhihu.com/p/593267924",
+  "collection_method": "anysearch_cli_search",
+  "retrieved_at": "2026-09-28T06:22:26Z",
+  "coverage": {
+    "level": "partial",
+    "discovered_pages": 1,
+    "content_pages": 0,
+    "comment_pages": 0,
+    "includes_nested_comments": false,
+    "upstream_reports_more": false,
+    "notes": "AnySearch 仅返回搜索摘要，正文请使用 anysearch-extract 或网页正文提取"
+  },
+  "record_count": 1,
+  "comment_count": 0,
+  "records": [
+    {
+      "source_id": "anysearch:url:366ba5a3095b69bd",
+      "platform": "anysearch",
+      "record_kind": "page",
+      "source_type": "article",
+      "title": "一名男生的高中暗恋故事",
+      "url": "https://zhuanlan.zhihu.com/p/593267924",
+      "author_display_name": "",
+      "published_at": null,
+      "retrieved_at": "2026-09-28T06:22:26Z",
+      "excerpt": "在高中时我暗恋过一个女孩，因为她的相貌并不是很出众，刚进高中时没怎么注意到她，应该是从高二开始的吧，慢慢的就发觉她十分特别，很少和其他女生聚在一起玩耍，手里 ...",
+      "full_text": "",
+      "publisher": "",
+      "thread_id": null,
+      "parent_id": null,
+      "floor_number": null,
+      "engagement": {
+        "search_rank": 1
+      },
+      "media": [],
+      "collection_method": "anysearch_cli_search",
+      "coverage": {
+        "level": "partial",
+        "discovered_pages": 1,
+        "content_pages": 0,
+        "comment_pages": 0,
+        "includes_nested_comments": false,
+        "upstream_reports_more": false,
+        "notes": "AnySearch 仅返回搜索摘要，正文请使用 anysearch-extract 或网页正文提取"
+      },
+      "raw_ref": "raw/anysearch-search-1.md",
+      "status": "ok",
+      "error": null,
+      "extra": {
+        "query": "高中 暗恋 故事",
+        "engine": "anysearch",
+        "search_rank": 1
+      }
+    }
+  ],
+  "comments": [],
+  "comment_tree": [],
+  "run_id": "anysearch-smoke"
+}

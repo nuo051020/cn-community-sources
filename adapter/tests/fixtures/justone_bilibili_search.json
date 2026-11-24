@@ -1,0 +1,82 @@
+{
+  "code": 0,
+  "message": null,
+  "success": true,
+  "truncated": false,
+  "endpoint_id": "<discovered-at-runtime>",
+  "data": {
+    "code": 0,
+    "message": "OK",
+    "ttl": 1,
+    "data": {
+      "page": 1,
+      "pagesize": 20,
+      "next": 2,
+      "numPages": 50,
+      "numResults": 1000,
+      "rqt_type": "search",
+      "result": [
+        {
+          "aid": 113566099315027,
+          "bvid": "BV1RHzzYzELm",
+          "title": "（全文已完结）<em class=\"keyword\">暗恋</em>，我<em class=\"keyword\">暗恋</em>一个人三年，从高一到高三还挺长时间的，<em class=\"keyword\">暗恋</em>好苦哦",
+          "description": "（全文已完结）暗恋，我暗恋一个人三年，从高一到高三还挺长时间的，暗恋好苦哦",
+          "desc": "",
+          "author": "资深完结少女",
+          "mid": 443672585,
+          "pubdate": 1732881947,
+          "duration": "36:34",
+          "play": 64112,
+          "danmaku": 108,
+          "review": 85,
+          "like": 1183,
+          "favorites": 994,
+          "coin": null,
+          "share": null,
+          "pic": "//i0.hdslb.com/bfs/archive/61111fb029b6c02826a3e00081c4cac9140db0e2.jpg",
+          "arcurl": "http://www.bilibili.com/video/av113566099315027",
+          "tag": "全文已完结,一口气看完系列,一更到底,完结文,一口气看完,虐文,小说推文,文荒推荐,小说,完结",
+          "typename": "国产原创相关",
+          "type": "video",
+          "rank_index": 1,
+          "senddate": 1783682564
+        },
+        {
+          "aid": 115107824667360,
+          "bvid": "BV1dGhUz4Eh6",
+          "title": "一个普通<em class=\"keyword\">暗恋</em>者的<em class=\"keyword\">故事</em>",
+          "description": "陆陆续续剪了1个星期，一点一点写，终于写出来了\n表述的不好还请见谅",
+          "desc": "",
+          "author": "1R0Haa",
+          "mid": 668714509,
+          "pubdate": 1756406290,
+          "duration": "13:29",
+          "play": 40816,
+          "danmaku": 43,
+          "review": 225,
+          "like": 1080,
+          "favorites": 662,
+          "coin": null,
+          "share": null,
+          "pic": "//i2.hdslb.com/bfs/archive/f4ef0e553ff578b342d62468907669dcd4f0e52e.jpg",
+          "arcurl": "http://www.bilibili.com/video/av115107824667360",
+          "tag": "校园,故事,爱情",
+          "typename": "日常",
+          "type": "video",
+          "rank_index": 2,
+          "senddate": 1766910465
+        }
+      ]
+    }
+  },
+  "next_step": {
+    "action": "call_endpoint",
+    "endpoint_id": "<discovered-at-runtime>",
+    "hint": "Use these params to fetch the next page or more results.",
+    "params": {
+      "keyword": "高中 暗恋 故事",
+      "page": 2
+    }
+  },
+  "warnings": []
+}

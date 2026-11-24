@@ -1,0 +1,55 @@
+{
+  "manifest_version": "1.0.0",
+  "created_at": "2026-09-28T06:22:27Z",
+  "intent": "collect",
+  "platform": "bilibili",
+  "requires_mcp": {
+    "server": "justoneapi",
+    "transport": "codex-mcp",
+    "credential": "由会话安全配置持有；本地项目不保存 token",
+    "note": "本地 Python 进程不能直接 import 或调用 MCP 工具"
+  },
+  "endpoint_discovery": {
+    "required": true,
+    "endpoint_id": null,
+    "schema": null,
+    "steps": [
+      "调用 justoneapi 端点发现工具，列出平台 bilibili 可用端点及其说明",
+      "读取选中端点的 schema，确认必填参数、分页字段与返回结构",
+      "把运行时返回的 endpoint_id 与 schema 写入本清单（不得凭记忆写死）",
+      "按 manifest 的 pagination 与 call_budget 执行调用，并把原始响应存入 inbox 目录",
+      "用 ingest-justone 子命令归一化响应；本工具不保存 token"
+    ]
+  },
+  "query": {
+    "keywords": "校园 爱情 故事",
+    "object_ids": [],
+    "time_range": {}
+  },
+  "pagination": {
+    "start_page": 1,
+    "page_limit": 1,
+    "page_size": 20,
+    "max_items": 20
+  },
+  "requires_comments": true,
+  "call_budget": {
+    "max_calls": 3,
+    "paid": true,
+    "requires_user_approval": true,
+    "note": "端点发现与 schema 读取合计至少 1 次调用；详情与评论按分页计算。未经用户明确确认，不得执行批量收费调用。"
+  },
+  "output_contract": {
+    "inbox_dir": "/Users/anesthetic/Desktop/cn-community-sources/adapter/outputs/justone-inbox",
+    "filename_pattern": "bilibili-<n>.json",
+    "format": "MCP 工具原始返回 JSON（可为 content[].text 包装）",
+    "ingest_command": "python3 -m source_adapter ingest-justone bilibili <path> --output <dir>"
+  },
+  "safety": {
+    "anonymous": true,
+    "read_only": true,
+    "browser_automation": false,
+    "access_control_bypass": false,
+    "stores_token": false
+  }
+}

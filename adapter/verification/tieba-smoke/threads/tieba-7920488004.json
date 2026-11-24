@@ -1,0 +1,71 @@
+{
+  "schema_version": "1.0.0",
+  "platform": "tieba",
+  "thread_id": "tieba:7920488004",
+  "title": "快来测测你暗恋的人喜不喜欢你！",
+  "url": "https://tieba.baidu.com/p/7920488004",
+  "collection_method": "tieba_public_search_json",
+  "retrieved_at": "2026-09-28T06:07:33Z",
+  "coverage": {
+    "level": "partial",
+    "discovered_pages": 1,
+    "content_pages": 0,
+    "comment_pages": 0,
+    "includes_nested_comments": false,
+    "upstream_reports_more": true,
+    "notes": "公开移动端搜索仅返回摘要与主题帖元数据，正文需用 aiotieba 深挖; 达到页数上限（page_limit=1），上游仍报告更多结果"
+  },
+  "record_count": 1,
+  "comment_count": 0,
+  "records": [
+    {
+      "source_id": "tieba:7920488004",
+      "platform": "tieba",
+      "record_kind": "thread",
+      "source_type": "community",
+      "title": "快来测测你暗恋的人喜不喜欢你！",
+      "url": "https://tieba.baidu.com/p/7920488004",
+      "author_display_name": "纯羊npc",
+      "published_at": "2022-07-12T15:52:25Z",
+      "retrieved_at": "2026-09-28T06:07:33Z",
+      "excerpt": "刚才想起初高中暗恋同桌的事，那种暧昧期间搞不清楚对方到底喜不喜欢自己，就想来免费给初高中生测测，刚才发完帖子竟然没人白嫖，才想起来这个游戏已经没有那么多初高中生会玩了。 大家随意来我随意回复吧，但是如果是成年人，就不要暗恋了，直接冲！ 评论区回复一下性别就好了。（我用的这个方法暂时还测不了txl的）",
+      "full_text": "",
+      "publisher": "",
+      "thread_id": null,
+      "parent_id": null,
+      "floor_number": null,
+      "engagement": {
+        "replies": 230,
+        "likes": 14,
+        "shares": 5,
+        "views": 0
+      },
+      "media": [],
+      "collection_method": "tieba_public_search_json",
+      "coverage": {
+        "level": "partial",
+        "discovered_pages": 1,
+        "content_pages": 0,
+        "comment_pages": 0,
+        "includes_nested_comments": false,
+        "upstream_reports_more": true,
+        "notes": "公开移动端搜索仅返回摘要与主题帖元数据，正文需用 aiotieba 深挖; 达到页数上限（page_limit=1），上游仍报告更多结果"
+      },
+      "raw_ref": "raw/tieba-public-search-p1.json",
+      "status": "ok",
+      "error": null,
+      "extra": {
+        "forum_name": "剑网3",
+        "forum_id": 1185508,
+        "thread_types": 1040,
+        "search_rank": 11,
+        "page": 1,
+        "discovery_only": true,
+        "content_truncated_by_upstream": true
+      }
+    }
+  ],
+  "comments": [],
+  "comment_tree": [],
+  "run_id": "tieba-smoke"
+}

@@ -1,0 +1,71 @@
+{
+  "schema_version": "1.0.0",
+  "platform": "tieba",
+  "thread_id": "tieba:11000628066",
+  "title": "很难评，算纯爱黑化吗",
+  "url": "https://tieba.baidu.com/p/11000628066",
+  "collection_method": "tieba_public_search_json",
+  "retrieved_at": "2026-09-28T06:07:33Z",
+  "coverage": {
+    "level": "partial",
+    "discovered_pages": 1,
+    "content_pages": 0,
+    "comment_pages": 0,
+    "includes_nested_comments": false,
+    "upstream_reports_more": true,
+    "notes": "公开移动端搜索仅返回摘要与主题帖元数据，正文需用 aiotieba 深挖; 达到页数上限（page_limit=1），上游仍报告更多结果"
+  },
+  "record_count": 1,
+  "comment_count": 0,
+  "records": [
+    {
+      "source_id": "tieba:11000628066",
+      "platform": "tieba",
+      "record_kind": "thread",
+      "source_type": "community",
+      "title": "很难评，算纯爱黑化吗",
+      "url": "https://tieba.baidu.com/p/11000628066",
+      "author_display_name": "ayanami零",
+      "published_at": "2026-09-06T00:52:52Z",
+      "retrieved_at": "2026-09-28T06:07:33Z",
+      "excerpt": "女友被假小子骗走后我骗走假小子再被高中暗恋的人上了但其实她是我前女友叫来取诬陷我的证据但实际上高中的情感更胜一筹结果前女友是最后的输家",
+      "full_text": "",
+      "publisher": "",
+      "thread_id": null,
+      "parent_id": null,
+      "floor_number": null,
+      "engagement": {
+        "replies": 59,
+        "likes": 700,
+        "shares": 5,
+        "views": 0
+      },
+      "media": [],
+      "collection_method": "tieba_public_search_json",
+      "coverage": {
+        "level": "partial",
+        "discovered_pages": 1,
+        "content_pages": 0,
+        "comment_pages": 0,
+        "includes_nested_comments": false,
+        "upstream_reports_more": true,
+        "notes": "公开移动端搜索仅返回摘要与主题帖元数据，正文需用 aiotieba 深挖; 达到页数上限（page_limit=1），上游仍报告更多结果"
+      },
+      "raw_ref": "raw/tieba-public-search-p1.json",
+      "status": "ok",
+      "error": null,
+      "extra": {
+        "forum_name": "宫漫",
+        "forum_id": 2190529,
+        "thread_types": 1040,
+        "search_rank": 4,
+        "page": 1,
+        "discovery_only": true,
+        "content_truncated_by_upstream": true
+      }
+    }
+  ],
+  "comments": [],
+  "comment_tree": [],
+  "run_id": "tieba-smoke"
+}

@@ -1,0 +1,71 @@
+{
+  "schema_version": "1.0.0",
+  "platform": "tieba",
+  "thread_id": "tieba:11023207773",
+  "title": "完整版《塔罗牌说他爱我》顾砚川 沈知微 全文阅读已完结txt",
+  "url": "https://tieba.baidu.com/p/11023207773",
+  "collection_method": "tieba_public_search_json",
+  "retrieved_at": "2026-09-28T06:07:33Z",
+  "coverage": {
+    "level": "partial",
+    "discovered_pages": 1,
+    "content_pages": 0,
+    "comment_pages": 0,
+    "includes_nested_comments": false,
+    "upstream_reports_more": true,
+    "notes": "公开移动端搜索仅返回摘要与主题帖元数据，正文需用 aiotieba 深挖; 达到页数上限（page_limit=1），上游仍报告更多结果"
+  },
+  "record_count": 1,
+  "comment_count": 0,
+  "records": [
+    {
+      "source_id": "tieba:11023207773",
+      "platform": "tieba",
+      "record_kind": "thread",
+      "source_type": "community",
+      "title": "完整版《塔罗牌说他爱我》顾砚川 沈知微 全文阅读已完结txt",
+      "url": "https://tieba.baidu.com/p/11023207773",
+      "author_display_name": "尔玥玥",
+      "published_at": "2026-09-14T13:38:00Z",
+      "retrieved_at": "2026-09-28T06:07:33Z",
+      "excerpt": "运营校园匿名塔罗号的第三百天，我接到了最特殊的一单。 男生问：我和暗恋多年的女生会有结果吗？ 牌面显示：【双向执念，近在咫尺。】 我指尖刚要敲字，目光顿在他头像上。 右耳缺角的橘猫。 那是我和高中暗恋的顾砚川，一起救下的猫。 后来猫归了他，我们也散了。 屏幕对面，是我喜欢了很多年的人。 我手指发颤，敲下一行字：“你喜欢的人，姓什么？”",
+      "full_text": "",
+      "publisher": "",
+      "thread_id": null,
+      "parent_id": null,
+      "floor_number": null,
+      "engagement": {
+        "replies": 33,
+        "likes": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "media": [],
+      "collection_method": "tieba_public_search_json",
+      "coverage": {
+        "level": "partial",
+        "discovered_pages": 1,
+        "content_pages": 0,
+        "comment_pages": 0,
+        "includes_nested_comments": false,
+        "upstream_reports_more": true,
+        "notes": "公开移动端搜索仅返回摘要与主题帖元数据，正文需用 aiotieba 深挖; 达到页数上限（page_limit=1），上游仍报告更多结果"
+      },
+      "raw_ref": "raw/tieba-public-search-p1.json",
+      "status": "ok",
+      "error": null,
+      "extra": {
+        "forum_name": "言情",
+        "forum_id": 25946,
+        "thread_types": 1024,
+        "search_rank": 3,
+        "page": 1,
+        "discovery_only": true,
+        "content_truncated_by_upstream": true
+      }
+    }
+  ],
+  "comments": [],
+  "comment_tree": [],
+  "run_id": "tieba-smoke"
+}

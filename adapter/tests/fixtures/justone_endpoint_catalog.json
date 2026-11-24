@@ -1,0 +1,30 @@
+{
+  "tools": [
+    {
+      "name": "<discovered:bilibili-video-search>",
+      "description": "按关键词搜索 B 站公开视频，返回视频基础信息与互动统计。端点 ID 由会话内的 Just One API MCP 发现工具在运行时返回，本样例仅用于校验归一化逻辑。",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "keyword": { "type": "string", "description": "搜索关键词" },
+          "page": { "type": "integer", "description": "页码，从 1 开始" },
+          "page_size": { "type": "integer", "description": "每页条数" }
+        },
+        "required": ["keyword", "page"]
+      }
+    },
+    {
+      "name": "<discovered:zhihu-question-search>",
+      "description": "按关键词搜索知乎公开问题，返回问题与回答标识。",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "query": { "type": "string", "description": "搜索关键词" },
+          "offset": { "type": "integer", "description": "分页偏移" },
+          "limit": { "type": "integer", "description": "返回条数" }
+        },
+        "required": ["query"]
+      }
+    }
+  ]
+}

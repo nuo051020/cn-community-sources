@@ -1,0 +1,71 @@
+{
+  "schema_version": "1.0.0",
+  "platform": "tieba",
+  "thread_id": "tieba:11055938930",
+  "title": "哥布林的自述",
+  "url": "https://tieba.baidu.com/p/11055938930",
+  "collection_method": "tieba_public_search_json",
+  "retrieved_at": "2026-09-28T06:07:33Z",
+  "coverage": {
+    "level": "partial",
+    "discovered_pages": 1,
+    "content_pages": 0,
+    "comment_pages": 0,
+    "includes_nested_comments": false,
+    "upstream_reports_more": true,
+    "notes": "公开移动端搜索仅返回摘要与主题帖元数据，正文需用 aiotieba 深挖; 达到页数上限（page_limit=1），上游仍报告更多结果"
+  },
+  "record_count": 1,
+  "comment_count": 0,
+  "records": [
+    {
+      "source_id": "tieba:11055938930",
+      "platform": "tieba",
+      "record_kind": "thread",
+      "source_type": "community",
+      "title": "哥布林的自述",
+      "url": "https://tieba.baidu.com/p/11055938930",
+      "author_display_name": "贴吧用户_JXSKXtW",
+      "published_at": "2026-09-26T13:41:24Z",
+      "retrieved_at": "2026-09-28T06:07:33Z",
+      "excerpt": "我高中喜欢一个女孩子，她是我的邻班同学，起初只是藏在心里的默默暗恋，静静的看着她，不敢去索求，只是远远的看一眼就好，可是有一天，她注视了我一眼，我只是奇怪，没有多想，在后来，我渐渐发现她的闺蜜和她见到我时会互相嬉闹，我原以为可能偶尔一次撞见，这很正常，可每次在走廊上遇到， 她们总是嬉闹，又若有若无地看向我的方向，我开始留意，“她不会喜欢我吧？”这个念头一出现，我就把她按下去，因为我很胖，长得也一般",
+      "full_text": "",
+      "publisher": "",
+      "thread_id": null,
+      "parent_id": null,
+      "floor_number": null,
+      "engagement": {
+        "replies": 11,
+        "likes": 7,
+        "shares": 0,
+        "views": 0
+      },
+      "media": [],
+      "collection_method": "tieba_public_search_json",
+      "coverage": {
+        "level": "partial",
+        "discovered_pages": 1,
+        "content_pages": 0,
+        "comment_pages": 0,
+        "includes_nested_comments": false,
+        "upstream_reports_more": true,
+        "notes": "公开移动端搜索仅返回摘要与主题帖元数据，正文需用 aiotieba 深挖; 达到页数上限（page_limit=1），上游仍报告更多结果"
+      },
+      "raw_ref": "raw/tieba-public-search-p1.json",
+      "status": "ok",
+      "error": null,
+      "extra": {
+        "forum_name": "郑州大学",
+        "forum_id": 4271,
+        "thread_types": 1024,
+        "search_rank": 9,
+        "page": 1,
+        "discovery_only": true,
+        "content_truncated_by_upstream": true
+      }
+    }
+  ],
+  "comments": [],
+  "comment_tree": [],
+  "run_id": "tieba-smoke"
+}

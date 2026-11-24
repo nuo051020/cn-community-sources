@@ -1,0 +1,285 @@
+{
+  "schema_version": "1.0.0",
+  "request_id": "tieba-smoke",
+  "query": "高中 暗恋",
+  "mode": "discover",
+  "locale": "zh-CN",
+  "results": [
+    {
+      "source_id": "tieba:11045552764",
+      "title": "想了想还是来这里记录一下高中两年的暗恋",
+      "source_type": "community",
+      "excerpt": "起因是今天他第一次点赞了我的朋友圈，我以为我早就不喜欢他了结果发现其实还是忘不了他 故事起因是高一来到了当地最好的一所高中，我们都在同一个班，当时他和他的好朋友很有缘分，小学初中高中都在同一所学校，高中班上都在打趣，我也记住了这个人。 他其实长的不高，说老家在西北但根本不会有北方人长的高的刻板印象，戴眼镜，长的不帅也不丑，当然我已经记不太清他长什么样了。他比我高，需要我抬头去看，高中时期因为精神状…",
+      "url": "https://tieba.baidu.com/p/11045552764",
+      "author": "空白231",
+      "published_at": "2026-09-22T17:18:36Z",
+      "retrieved_at": "2026-09-28T06:22:23Z",
+      "metadata": {
+        "platform": "tieba",
+        "record_kind": "thread",
+        "thread_id": null,
+        "parent_id": null,
+        "floor_number": null,
+        "collection_method": "tieba_public_search_json",
+        "coverage": {
+          "level": "partial",
+          "discovered_pages": 1,
+          "content_pages": 0,
+          "comment_pages": 0,
+          "includes_nested_comments": false,
+          "upstream_reports_more": true,
+          "notes": "公开移动端搜索仅返回摘要与主题帖元数据，正文需用 aiotieba 深挖; 达到页数上限（page_limit=1），上游仍报告更多结果"
+        },
+        "raw_ref": "raw/tieba-public-search-p1.json",
+        "engagement": {
+          "replies": 16,
+          "likes": 0,
+          "shares": 0,
+          "views": 0
+        },
+        "media": [],
+        "status": "ok",
+        "comment_count": 0,
+        "extra": {
+          "forum_name": "暗恋",
+          "forum_id": 95003,
+          "thread_types": 1024,
+          "search_rank": 1,
+          "page": 1,
+          "discovery_only": true,
+          "content_truncated_by_upstream": true
+        }
+      }
+    },
+    {
+      "source_id": "tieba:11059701902",
+      "title": "吐蕊的白蔷薇——石蕗高中暗恋日记簿",
+      "source_type": "community",
+      "excerpt": "（老帖子补档） 幼年形态创作的作品",
+      "url": "https://tieba.baidu.com/p/11059701902",
+      "author": "茉莉ok绷",
+      "published_at": "2026-09-28T02:42:10Z",
+      "retrieved_at": "2026-09-28T06:22:23Z",
+      "metadata": {
+        "platform": "tieba",
+        "record_kind": "thread",
+        "thread_id": null,
+        "parent_id": null,
+        "floor_number": null,
+        "collection_method": "tieba_public_search_json",
+        "coverage": {
+          "level": "partial",
+          "discovered_pages": 1,
+          "content_pages": 0,
+          "comment_pages": 0,
+          "includes_nested_comments": false,
+          "upstream_reports_more": true,
+          "notes": "公开移动端搜索仅返回摘要与主题帖元数据，正文需用 aiotieba 深挖; 达到页数上限（page_limit=1），上游仍报告更多结果"
+        },
+        "raw_ref": "raw/tieba-public-search-p1.json",
+        "engagement": {
+          "replies": 60,
+          "likes": 19,
+          "shares": 0,
+          "views": 0
+        },
+        "media": [],
+        "status": "ok",
+        "comment_count": 0,
+        "extra": {
+          "forum_name": "败犬女主太多了",
+          "forum_id": 27746266,
+          "thread_types": 1040,
+          "search_rank": 2,
+          "page": 1,
+          "discovery_only": true,
+          "content_truncated_by_upstream": true
+        }
+      }
+    },
+    {
+      "source_id": "tieba:11055306882",
+      "title": "鬼水寒，情缘车祸去世后，我躲进山洞七天七夜……",
+      "source_type": "community",
+      "excerpt": "我和情缘确定情缘关系三个月后，奔现了。 这三个月是我这辈子最开心的时光，我们上线就黏在一起，一起做任务，一起打本，一起休闲，在游戏中，我走到哪儿，她都跟着我，我们就好像连体婴儿一样。 这样的情况下，那天，我们奔现了。 我们两个所在的城市相距不远，她一个人开车过来的。 第一次线下见到她，我觉得她简直美翻了，跟明星一样。 她穿着一件印着卡通图案的t恤衫，下身搭配了一条短裙，还特意穿了一条薄薄的黑色丝袜…",
+      "url": "https://tieba.baidu.com/p/11055306882",
+      "author": "落言欢",
+      "published_at": "2026-09-26T07:59:26Z",
+      "retrieved_at": "2026-09-28T06:22:23Z",
+      "metadata": {
+        "platform": "tieba",
+        "record_kind": "thread",
+        "thread_id": null,
+        "parent_id": null,
+        "floor_number": null,
+        "collection_method": "tieba_public_search_json",
+        "coverage": {
+          "level": "partial",
+          "discovered_pages": 1,
+          "content_pages": 0,
+          "comment_pages": 0,
+          "includes_nested_comments": false,
+          "upstream_reports_more": true,
+          "notes": "公开移动端搜索仅返回摘要与主题帖元数据，正文需用 aiotieba 深挖; 达到页数上限（page_limit=1），上游仍报告更多结果"
+        },
+        "raw_ref": "raw/tieba-public-search-p1.json",
+        "engagement": {
+          "replies": 23,
+          "likes": 3,
+          "shares": 2,
+          "views": 0
+        },
+        "media": [],
+        "status": "ok",
+        "comment_count": 0,
+        "extra": {
+          "forum_name": "逆水寒手游",
+          "forum_id": 27377531,
+          "thread_types": 1024,
+          "search_rank": 3,
+          "page": 1,
+          "discovery_only": true,
+          "content_truncated_by_upstream": true
+        }
+      }
+    },
+    {
+      "source_id": "tieba:11018355564",
+      "title": "短剧《暗恋开出甜梨花（145集）》是一部关于青春成长和情感纠葛的，讲述了一个高中生在暗恋过程中的心路历程",
+      "source_type": "community",
+      "excerpt": "剧名：暗恋开出甜梨花（145集） 链接：&#x0068&#x0074&#x0074&#x0070&#x0073&#x003a&#x002f&#x002f&#x0070&#x0061&#x006e&#x002e&#x0071&#x0075&#x0061&#x0072&#x006b&#x002e&#x0063&#x006e&#x002f&#x0073&#x002f&#x0034&#x0035&#x00…",
+      "url": "https://tieba.baidu.com/p/11018355564",
+      "author": "幼儿园当学霸吖",
+      "published_at": "2026-09-12T15:07:35Z",
+      "retrieved_at": "2026-09-28T06:22:23Z",
+      "metadata": {
+        "platform": "tieba",
+        "record_kind": "thread",
+        "thread_id": null,
+        "parent_id": null,
+        "floor_number": null,
+        "collection_method": "tieba_public_search_json",
+        "coverage": {
+          "level": "partial",
+          "discovered_pages": 1,
+          "content_pages": 0,
+          "comment_pages": 0,
+          "includes_nested_comments": false,
+          "upstream_reports_more": true,
+          "notes": "公开移动端搜索仅返回摘要与主题帖元数据，正文需用 aiotieba 深挖; 达到页数上限（page_limit=1），上游仍报告更多结果"
+        },
+        "raw_ref": "raw/tieba-public-search-p1.json",
+        "engagement": {
+          "replies": 0,
+          "likes": 0,
+          "shares": 0,
+          "views": 0
+        },
+        "media": [],
+        "status": "ok",
+        "comment_count": 0,
+        "extra": {
+          "forum_name": "超人追剧",
+          "forum_id": 28251433,
+          "thread_types": 1024,
+          "search_rank": 4,
+          "page": 1,
+          "discovery_only": true,
+          "content_truncated_by_upstream": true
+        }
+      }
+    },
+    {
+      "source_id": "tieba:11018273057",
+      "title": "鼠鼠的高中暗恋小故事",
+      "source_type": "community",
+      "excerpt": "好久没见她了，好想她啊 记录一下那段日子 555她不回我消息",
+      "url": "https://tieba.baidu.com/p/11018273057",
+      "author": "kie·",
+      "published_at": "2026-09-12T14:07:48Z",
+      "retrieved_at": "2026-09-28T06:22:23Z",
+      "metadata": {
+        "platform": "tieba",
+        "record_kind": "thread",
+        "thread_id": null,
+        "parent_id": null,
+        "floor_number": null,
+        "collection_method": "tieba_public_search_json",
+        "coverage": {
+          "level": "partial",
+          "discovered_pages": 1,
+          "content_pages": 0,
+          "comment_pages": 0,
+          "includes_nested_comments": false,
+          "upstream_reports_more": true,
+          "notes": "公开移动端搜索仅返回摘要与主题帖元数据，正文需用 aiotieba 深挖; 达到页数上限（page_limit=1），上游仍报告更多结果"
+        },
+        "raw_ref": "raw/tieba-public-search-p1.json",
+        "engagement": {
+          "replies": 24,
+          "likes": 7,
+          "shares": 0,
+          "views": 0
+        },
+        "media": [],
+        "status": "ok",
+        "comment_count": 0,
+        "extra": {
+          "forum_name": "核战避难所",
+          "forum_id": 17641967,
+          "thread_types": 1040,
+          "search_rank": 5,
+          "page": 1,
+          "discovery_only": true,
+          "content_truncated_by_upstream": true
+        }
+      }
+    },
+    {
+      "source_id": "tieba:11004558386",
+      "title": "确诊癌症后 我才舍得点燃高中暗恋对象送的香薰蜡烛 底下露出一张",
+      "source_type": "community",
+      "excerpt": "确诊癌症后，我才舍得点燃高中暗恋对象送的香薰蜡烛。 底下露出一张纸条。 【沈鸢，你来见我，我们就在一起。】 这是一句跨越七年的对话。 我怔了许久，拿起手机。 他上周给我发了消息。 说他要结婚，问我准备随多少份子。 脑子一抽，我转过去九万九。 他秒回：【？】 转都转了，我干脆问。 【婚礼办了吗？没办的话，我能不能去参加？】 1 江驰野没有回复。 下一秒，一个电话打了过来。 「你倒是大方。」 他轻嗤一…",
+      "url": "https://tieba.baidu.com/p/11004558386",
+      "author": "思维布局E1",
+      "published_at": "2026-09-07T13:11:04Z",
+      "retrieved_at": "2026-09-28T06:22:23Z",
+      "metadata": {
+        "platform": "tieba",
+        "record_kind": "thread",
+        "thread_id": null,
+        "parent_id": null,
+        "floor_number": null,
+        "collection_method": "tieba_public_search_json",
+        "coverage": {
+          "level": "partial",
+          "discovered_pages": 1,
+          "content_pages": 0,
+          "comment_pages": 0,
+          "includes_nested_comments": false,
+          "upstream_reports_more": true,
+          "notes": "公开移动端搜索仅返回摘要与主题帖元数据，正文需用 aiotieba 深挖; 达到页数上限（page_limit=1），上游仍报告更多结果"
+        },
+        "raw_ref": "raw/tieba-public-search-p1.json",
+        "engagement": {
+          "replies": 0,
+          "likes": 0,
+          "shares": 0,
+          "views": 0
+        },
+        "media": [],
+        "status": "ok",
+        "comment_count": 0,
+        "extra": {
+          "forum_name": "书虫救助站",
+          "forum_id": 27997588,
+          "thread_types": 1024,
+          "search_rank": 6,
+          "page": 1,
+          "discovery_only": true,
+          "content_truncated_by_upstream": true
+        }
+      }
+    }
+  ]
+}

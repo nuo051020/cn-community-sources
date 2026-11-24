@@ -1,0 +1,71 @@
+{
+  "schema_version": "1.0.0",
+  "platform": "tieba",
+  "thread_id": "tieba:10845153904",
+  "title": "找一本bl暗恋小说",
+  "url": "https://tieba.baidu.com/p/10845153904",
+  "collection_method": "tieba_public_search_json",
+  "retrieved_at": "2026-09-28T06:07:33Z",
+  "coverage": {
+    "level": "partial",
+    "discovered_pages": 1,
+    "content_pages": 0,
+    "comment_pages": 0,
+    "includes_nested_comments": false,
+    "upstream_reports_more": true,
+    "notes": "公开移动端搜索仅返回摘要与主题帖元数据，正文需用 aiotieba 深挖; 达到页数上限（page_limit=1），上游仍报告更多结果"
+  },
+  "record_count": 1,
+  "comment_count": 0,
+  "records": [
+    {
+      "source_id": "tieba:10845153904",
+      "platform": "tieba",
+      "record_kind": "thread",
+      "source_type": "community",
+      "title": "找一本bl暗恋小说",
+      "url": "https://tieba.baidu.com/p/10845153904",
+      "author_display_name": "贴吧用户_JANXGM1",
+      "published_at": "2026-07-05T06:40:53Z",
+      "retrieved_at": "2026-09-28T06:07:33Z",
+      "excerpt": "大概内容好像是主角高中暗恋隔壁班的一个男同学，然后在以前去办公室交材料的时候，看到那个男同学的联系方式，就经常用短信和他发消息，但男同学一直没回他。 后来那个男同学好像是出国还是怎么说让两个人分开，他就没有再给他发过消息。最后是同学聚会还是在什么时候，两个人重逢了，其实那个男同学一直都知道是他给自己发的照片和消息，然后两个人就在一起了，是一篇短篇小说，有宝子知道叫什么名字吗？",
+      "full_text": "",
+      "publisher": "",
+      "thread_id": null,
+      "parent_id": null,
+      "floor_number": null,
+      "engagement": {
+        "replies": 11,
+        "likes": 6,
+        "shares": 0,
+        "views": 0
+      },
+      "media": [],
+      "collection_method": "tieba_public_search_json",
+      "coverage": {
+        "level": "partial",
+        "discovered_pages": 1,
+        "content_pages": 0,
+        "comment_pages": 0,
+        "includes_nested_comments": false,
+        "upstream_reports_more": true,
+        "notes": "公开移动端搜索仅返回摘要与主题帖元数据，正文需用 aiotieba 深挖; 达到页数上限（page_limit=1），上游仍报告更多结果"
+      },
+      "raw_ref": "raw/tieba-public-search-p1.json",
+      "status": "ok",
+      "error": null,
+      "extra": {
+        "forum_name": "小说",
+        "forum_id": 29,
+        "thread_types": 304942679040,
+        "search_rank": 2,
+        "page": 1,
+        "discovery_only": true,
+        "content_truncated_by_upstream": true
+      }
+    }
+  ],
+  "comments": [],
+  "comment_tree": [],
+  "run_id": "tieba-smoke"
+}

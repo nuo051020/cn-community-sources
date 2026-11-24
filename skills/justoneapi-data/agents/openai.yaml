@@ -1,0 +1,4 @@
+interface:
+  display_name: "Just One API 数据获取"
+  short_description: "通过 Just One API MCP 获取多平台公开数据。"
+  default_prompt: "使用 Just One API 查询指定平台的公开数据，并说明接口、参数和费用。"

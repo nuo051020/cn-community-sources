@@ -1,0 +1,71 @@
+{
+  "schema_version": "1.0.0",
+  "platform": "tieba",
+  "thread_id": "tieba:11045552764",
+  "title": "想了想还是来这里记录一下高中两年的暗恋",
+  "url": "https://tieba.baidu.com/p/11045552764",
+  "collection_method": "tieba_public_search_json",
+  "retrieved_at": "2026-09-28T06:22:23Z",
+  "coverage": {
+    "level": "partial",
+    "discovered_pages": 1,
+    "content_pages": 0,
+    "comment_pages": 0,
+    "includes_nested_comments": false,
+    "upstream_reports_more": true,
+    "notes": "公开移动端搜索仅返回摘要与主题帖元数据，正文需用 aiotieba 深挖; 达到页数上限（page_limit=1），上游仍报告更多结果"
+  },
+  "record_count": 1,
+  "comment_count": 0,
+  "records": [
+    {
+      "source_id": "tieba:11045552764",
+      "platform": "tieba",
+      "record_kind": "thread",
+      "source_type": "community",
+      "title": "想了想还是来这里记录一下高中两年的暗恋",
+      "url": "https://tieba.baidu.com/p/11045552764",
+      "author_display_name": "空白231",
+      "published_at": "2026-09-22T17:18:36Z",
+      "retrieved_at": "2026-09-28T06:22:23Z",
+      "excerpt": "起因是今天他第一次点赞了我的朋友圈，我以为我早就不喜欢他了结果发现其实还是忘不了他 故事起因是高一来到了当地最好的一所高中，我们都在同一个班，当时他和他的好朋友很有缘分，小学初中高中都在同一所学校，高中班上都在打趣，我也记住了这个人。 他其实长的不高，说老家在西北但根本不会有北方人长的高的刻板印象，戴眼镜，长的不帅也不丑，当然我已经记不太清他长什么样了。他比我高，需要我抬头去看，高中时期因为精神状…",
+      "full_text": "",
+      "publisher": "",
+      "thread_id": null,
+      "parent_id": null,
+      "floor_number": null,
+      "engagement": {
+        "replies": 16,
+        "likes": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "media": [],
+      "collection_method": "tieba_public_search_json",
+      "coverage": {
+        "level": "partial",
+        "discovered_pages": 1,
+        "content_pages": 0,
+        "comment_pages": 0,
+        "includes_nested_comments": false,
+        "upstream_reports_more": true,
+        "notes": "公开移动端搜索仅返回摘要与主题帖元数据，正文需用 aiotieba 深挖; 达到页数上限（page_limit=1），上游仍报告更多结果"
+      },
+      "raw_ref": "raw/tieba-public-search-p1.json",
+      "status": "ok",
+      "error": null,
+      "extra": {
+        "forum_name": "暗恋",
+        "forum_id": 95003,
+        "thread_types": 1024,
+        "search_rank": 1,
+        "page": 1,
+        "discovery_only": true,
+        "content_truncated_by_upstream": true
+      }
+    }
+  ],
+  "comments": [],
+  "comment_tree": [],
+  "run_id": "tieba-smoke"
+}

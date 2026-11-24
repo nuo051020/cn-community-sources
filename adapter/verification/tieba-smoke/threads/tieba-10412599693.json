@@ -1,0 +1,71 @@
+{
+  "schema_version": "1.0.0",
+  "platform": "tieba",
+  "thread_id": "tieba:10412599693",
+  "title": "关于我上大学后想要弥补高中遗憾这件事",
+  "url": "https://tieba.baidu.com/p/10412599693",
+  "collection_method": "tieba_public_search_json",
+  "retrieved_at": "2026-09-28T06:07:33Z",
+  "coverage": {
+    "level": "partial",
+    "discovered_pages": 1,
+    "content_pages": 0,
+    "comment_pages": 0,
+    "includes_nested_comments": false,
+    "upstream_reports_more": true,
+    "notes": "公开移动端搜索仅返回摘要与主题帖元数据，正文需用 aiotieba 深挖; 达到页数上限（page_limit=1），上游仍报告更多结果"
+  },
+  "record_count": 1,
+  "comment_count": 0,
+  "records": [
+    {
+      "source_id": "tieba:10412599693",
+      "platform": "tieba",
+      "record_kind": "thread",
+      "source_type": "community",
+      "title": "关于我上大学后想要弥补高中遗憾这件事",
+      "url": "https://tieba.baidu.com/p/10412599693",
+      "author_display_name": "梯队建设澜沧江",
+      "published_at": "2026-01-19T17:27:57Z",
+      "retrieved_at": "2026-09-28T06:07:33Z",
+      "excerpt": "鼠鼠我半夜想到了这件搞笑的事情，我曾经像个啥子一样想要跟我高中暗恋对象处对象假扮成摄影师跟人家接触结果成了?#青春时期最意难平的那个人#",
+      "full_text": "",
+      "publisher": "",
+      "thread_id": null,
+      "parent_id": null,
+      "floor_number": null,
+      "engagement": {
+        "replies": 14,
+        "likes": 13,
+        "shares": 0,
+        "views": 0
+      },
+      "media": [],
+      "collection_method": "tieba_public_search_json",
+      "coverage": {
+        "level": "partial",
+        "discovered_pages": 1,
+        "content_pages": 0,
+        "comment_pages": 0,
+        "includes_nested_comments": false,
+        "upstream_reports_more": true,
+        "notes": "公开移动端搜索仅返回摘要与主题帖元数据，正文需用 aiotieba 深挖; 达到页数上限（page_limit=1），上游仍报告更多结果"
+      },
+      "raw_ref": "raw/tieba-public-search-p1.json",
+      "status": "ok",
+      "error": null,
+      "extra": {
+        "forum_name": "孙笑川",
+        "forum_id": 21841105,
+        "thread_types": 1040,
+        "search_rank": 10,
+        "page": 1,
+        "discovery_only": true,
+        "content_truncated_by_upstream": true
+      }
+    }
+  ],
+  "comments": [],
+  "comment_tree": [],
+  "run_id": "tieba-smoke"
+}

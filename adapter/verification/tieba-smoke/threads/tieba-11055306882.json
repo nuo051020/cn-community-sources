@@ -1,0 +1,71 @@
+{
+  "schema_version": "1.0.0",
+  "platform": "tieba",
+  "thread_id": "tieba:11055306882",
+  "title": "鬼水寒，情缘车祸去世后，我躲进山洞七天七夜……",
+  "url": "https://tieba.baidu.com/p/11055306882",
+  "collection_method": "tieba_public_search_json",
+  "retrieved_at": "2026-09-28T06:22:23Z",
+  "coverage": {
+    "level": "partial",
+    "discovered_pages": 1,
+    "content_pages": 0,
+    "comment_pages": 0,
+    "includes_nested_comments": false,
+    "upstream_reports_more": true,
+    "notes": "公开移动端搜索仅返回摘要与主题帖元数据，正文需用 aiotieba 深挖; 达到页数上限（page_limit=1），上游仍报告更多结果"
+  },
+  "record_count": 1,
+  "comment_count": 0,
+  "records": [
+    {
+      "source_id": "tieba:11055306882",
+      "platform": "tieba",
+      "record_kind": "thread",
+      "source_type": "community",
+      "title": "鬼水寒，情缘车祸去世后，我躲进山洞七天七夜……",
+      "url": "https://tieba.baidu.com/p/11055306882",
+      "author_display_name": "落言欢",
+      "published_at": "2026-09-26T07:59:26Z",
+      "retrieved_at": "2026-09-28T06:22:23Z",
+      "excerpt": "我和情缘确定情缘关系三个月后，奔现了。 这三个月是我这辈子最开心的时光，我们上线就黏在一起，一起做任务，一起打本，一起休闲，在游戏中，我走到哪儿，她都跟着我，我们就好像连体婴儿一样。 这样的情况下，那天，我们奔现了。 我们两个所在的城市相距不远，她一个人开车过来的。 第一次线下见到她，我觉得她简直美翻了，跟明星一样。 她穿着一件印着卡通图案的t恤衫，下身搭配了一条短裙，还特意穿了一条薄薄的黑色丝袜…",
+      "full_text": "",
+      "publisher": "",
+      "thread_id": null,
+      "parent_id": null,
+      "floor_number": null,
+      "engagement": {
+        "replies": 23,
+        "likes": 3,
+        "shares": 2,
+        "views": 0
+      },
+      "media": [],
+      "collection_method": "tieba_public_search_json",
+      "coverage": {
+        "level": "partial",
+        "discovered_pages": 1,
+        "content_pages": 0,
+        "comment_pages": 0,
+        "includes_nested_comments": false,
+        "upstream_reports_more": true,
+        "notes": "公开移动端搜索仅返回摘要与主题帖元数据，正文需用 aiotieba 深挖; 达到页数上限（page_limit=1），上游仍报告更多结果"
+      },
+      "raw_ref": "raw/tieba-public-search-p1.json",
+      "status": "ok",
+      "error": null,
+      "extra": {
+        "forum_name": "逆水寒手游",
+        "forum_id": 27377531,
+        "thread_types": 1024,
+        "search_rank": 3,
+        "page": 1,
+        "discovery_only": true,
+        "content_truncated_by_upstream": true
+      }
+    }
+  ],
+  "comments": [],
+  "comment_tree": [],
+  "run_id": "tieba-smoke"
+}

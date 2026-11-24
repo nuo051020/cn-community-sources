@@ -1,0 +1,71 @@
+{
+  "schema_version": "1.0.0",
+  "platform": "tieba",
+  "thread_id": "tieba:11051152772",
+  "title": "道理大伙都懂，只是亲身经历过，才懂其中滋味",
+  "url": "https://tieba.baidu.com/p/11051152772",
+  "collection_method": "tieba_public_search_json",
+  "retrieved_at": "2026-09-28T06:07:33Z",
+  "coverage": {
+    "level": "partial",
+    "discovered_pages": 1,
+    "content_pages": 0,
+    "comment_pages": 0,
+    "includes_nested_comments": false,
+    "upstream_reports_more": true,
+    "notes": "公开移动端搜索仅返回摘要与主题帖元数据，正文需用 aiotieba 深挖; 达到页数上限（page_limit=1），上游仍报告更多结果"
+  },
+  "record_count": 1,
+  "comment_count": 0,
+  "records": [
+    {
+      "source_id": "tieba:11051152772",
+      "platform": "tieba",
+      "record_kind": "thread",
+      "source_type": "community",
+      "title": "道理大伙都懂，只是亲身经历过，才懂其中滋味",
+      "url": "https://tieba.baidu.com/p/11051152772",
+      "author_display_name": "优菈的长靴",
+      "published_at": "2026-09-24T16:22:25Z",
+      "retrieved_at": "2026-09-28T06:07:33Z",
+      "excerpt": "我高一时的生物老师曾经说过这么一句话，大概意思是要我们努力学习，提升自己，要变得比自己喜欢的那个人更加优秀 直到今天我才知道这句话背后的分量。 最近各地高校保研结果陆续出来了，今天晚上闲暇时间，我打开自己的扣扣空间，看到自己高中时暗恋多年的学姐被保研到一所985，普通本科保研到985不容易，但我也知道她更不容易。四年前的八月她收到录取结果后并不满意，于是选择去外地复读，最后提分六十多 而我自己吧，…",
+      "full_text": "",
+      "publisher": "",
+      "thread_id": null,
+      "parent_id": null,
+      "floor_number": null,
+      "engagement": {
+        "replies": 13,
+        "likes": 12,
+        "shares": 0,
+        "views": 0
+      },
+      "media": [],
+      "collection_method": "tieba_public_search_json",
+      "coverage": {
+        "level": "partial",
+        "discovered_pages": 1,
+        "content_pages": 0,
+        "comment_pages": 0,
+        "includes_nested_comments": false,
+        "upstream_reports_more": true,
+        "notes": "公开移动端搜索仅返回摘要与主题帖元数据，正文需用 aiotieba 深挖; 达到页数上限（page_limit=1），上游仍报告更多结果"
+      },
+      "raw_ref": "raw/tieba-public-search-p1.json",
+      "status": "ok",
+      "error": null,
+      "extra": {
+        "forum_name": "原神内容讨论",
+        "forum_id": 27989825,
+        "thread_types": 1040,
+        "search_rank": 6,
+        "page": 1,
+        "discovery_only": true,
+        "content_truncated_by_upstream": true
+      }
+    }
+  ],
+  "comments": [],
+  "comment_tree": [],
+  "run_id": "tieba-smoke"
+}

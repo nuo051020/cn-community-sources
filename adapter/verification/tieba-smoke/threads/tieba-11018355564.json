@@ -1,0 +1,71 @@
+{
+  "schema_version": "1.0.0",
+  "platform": "tieba",
+  "thread_id": "tieba:11018355564",
+  "title": "短剧《暗恋开出甜梨花（145集）》是一部关于青春成长和情感纠葛的，讲述了一个高中生在暗恋过程中的心路历程",
+  "url": "https://tieba.baidu.com/p/11018355564",
+  "collection_method": "tieba_public_search_json",
+  "retrieved_at": "2026-09-28T06:22:23Z",
+  "coverage": {
+    "level": "partial",
+    "discovered_pages": 1,
+    "content_pages": 0,
+    "comment_pages": 0,
+    "includes_nested_comments": false,
+    "upstream_reports_more": true,
+    "notes": "公开移动端搜索仅返回摘要与主题帖元数据，正文需用 aiotieba 深挖; 达到页数上限（page_limit=1），上游仍报告更多结果"
+  },
+  "record_count": 1,
+  "comment_count": 0,
+  "records": [
+    {
+      "source_id": "tieba:11018355564",
+      "platform": "tieba",
+      "record_kind": "thread",
+      "source_type": "community",
+      "title": "短剧《暗恋开出甜梨花（145集）》是一部关于青春成长和情感纠葛的，讲述了一个高中生在暗恋过程中的心路历程",
+      "url": "https://tieba.baidu.com/p/11018355564",
+      "author_display_name": "幼儿园当学霸吖",
+      "published_at": "2026-09-12T15:07:35Z",
+      "retrieved_at": "2026-09-28T06:22:23Z",
+      "excerpt": "剧名：暗恋开出甜梨花（145集） 链接：&#x0068&#x0074&#x0074&#x0070&#x0073&#x003a&#x002f&#x002f&#x0070&#x0061&#x006e&#x002e&#x0071&#x0075&#x0061&#x0072&#x006b&#x002e&#x0063&#x006e&#x002f&#x0073&#x002f&#x0034&#x0035&#x00…",
+      "full_text": "",
+      "publisher": "",
+      "thread_id": null,
+      "parent_id": null,
+      "floor_number": null,
+      "engagement": {
+        "replies": 0,
+        "likes": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "media": [],
+      "collection_method": "tieba_public_search_json",
+      "coverage": {
+        "level": "partial",
+        "discovered_pages": 1,
+        "content_pages": 0,
+        "comment_pages": 0,
+        "includes_nested_comments": false,
+        "upstream_reports_more": true,
+        "notes": "公开移动端搜索仅返回摘要与主题帖元数据，正文需用 aiotieba 深挖; 达到页数上限（page_limit=1），上游仍报告更多结果"
+      },
+      "raw_ref": "raw/tieba-public-search-p1.json",
+      "status": "ok",
+      "error": null,
+      "extra": {
+        "forum_name": "超人追剧",
+        "forum_id": 28251433,
+        "thread_types": 1024,
+        "search_rank": 4,
+        "page": 1,
+        "discovery_only": true,
+        "content_truncated_by_upstream": true
+      }
+    }
+  ],
+  "comments": [],
+  "comment_tree": [],
+  "run_id": "tieba-smoke"
+}

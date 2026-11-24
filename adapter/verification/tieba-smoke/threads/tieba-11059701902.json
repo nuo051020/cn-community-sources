@@ -1,0 +1,71 @@
+{
+  "schema_version": "1.0.0",
+  "platform": "tieba",
+  "thread_id": "tieba:11059701902",
+  "title": "吐蕊的白蔷薇——石蕗高中暗恋日记簿",
+  "url": "https://tieba.baidu.com/p/11059701902",
+  "collection_method": "tieba_public_search_json",
+  "retrieved_at": "2026-09-28T06:22:23Z",
+  "coverage": {
+    "level": "partial",
+    "discovered_pages": 1,
+    "content_pages": 0,
+    "comment_pages": 0,
+    "includes_nested_comments": false,
+    "upstream_reports_more": true,
+    "notes": "公开移动端搜索仅返回摘要与主题帖元数据，正文需用 aiotieba 深挖; 达到页数上限（page_limit=1），上游仍报告更多结果"
+  },
+  "record_count": 1,
+  "comment_count": 0,
+  "records": [
+    {
+      "source_id": "tieba:11059701902",
+      "platform": "tieba",
+      "record_kind": "thread",
+      "source_type": "community",
+      "title": "吐蕊的白蔷薇——石蕗高中暗恋日记簿",
+      "url": "https://tieba.baidu.com/p/11059701902",
+      "author_display_name": "茉莉ok绷",
+      "published_at": "2026-09-28T02:42:10Z",
+      "retrieved_at": "2026-09-28T06:22:23Z",
+      "excerpt": "（老帖子补档） 幼年形态创作的作品",
+      "full_text": "",
+      "publisher": "",
+      "thread_id": null,
+      "parent_id": null,
+      "floor_number": null,
+      "engagement": {
+        "replies": 60,
+        "likes": 19,
+        "shares": 0,
+        "views": 0
+      },
+      "media": [],
+      "collection_method": "tieba_public_search_json",
+      "coverage": {
+        "level": "partial",
+        "discovered_pages": 1,
+        "content_pages": 0,
+        "comment_pages": 0,
+        "includes_nested_comments": false,
+        "upstream_reports_more": true,
+        "notes": "公开移动端搜索仅返回摘要与主题帖元数据，正文需用 aiotieba 深挖; 达到页数上限（page_limit=1），上游仍报告更多结果"
+      },
+      "raw_ref": "raw/tieba-public-search-p1.json",
+      "status": "ok",
+      "error": null,
+      "extra": {
+        "forum_name": "败犬女主太多了",
+        "forum_id": 27746266,
+        "thread_types": 1040,
+        "search_rank": 2,
+        "page": 1,
+        "discovery_only": true,
+        "content_truncated_by_upstream": true
+      }
+    }
+  ],
+  "comments": [],
+  "comment_tree": [],
+  "run_id": "tieba-smoke"
+}

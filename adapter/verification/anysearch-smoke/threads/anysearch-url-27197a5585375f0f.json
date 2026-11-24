@@ -1,0 +1,65 @@
+{
+  "schema_version": "1.0.0",
+  "platform": "anysearch",
+  "thread_id": "anysearch:url:27197a5585375f0f",
+  "title": "你的高中暗恋故事是什么？ : r/AskReddit",
+  "url": "https://www.reddit.com/r/AskReddit/comments/3meut8/whats_your_highschool_crush_story/?tl=zh-hans",
+  "collection_method": "anysearch_cli_search",
+  "retrieved_at": "2026-09-28T06:22:26Z",
+  "coverage": {
+    "level": "partial",
+    "discovered_pages": 1,
+    "content_pages": 0,
+    "comment_pages": 0,
+    "includes_nested_comments": false,
+    "upstream_reports_more": false,
+    "notes": "AnySearch 仅返回搜索摘要，正文请使用 anysearch-extract 或网页正文提取"
+  },
+  "record_count": 1,
+  "comment_count": 0,
+  "records": [
+    {
+      "source_id": "anysearch:url:27197a5585375f0f",
+      "platform": "anysearch",
+      "record_kind": "page",
+      "source_type": "article",
+      "title": "你的高中暗恋故事是什么？ : r/AskReddit",
+      "url": "https://www.reddit.com/r/AskReddit/comments/3meut8/whats_your_highschool_crush_story/?tl=zh-hans",
+      "author_display_name": "",
+      "published_at": null,
+      "retrieved_at": "2026-09-28T06:22:26Z",
+      "excerpt": "高中开始了，我仍然超级爱着他。我试着邀请他去Sadie Hawkins舞会，但他从来不想去。每年情人节，我会给他做饼干并买一个情人节卡（合唱团会在课堂上打断 ...",
+      "full_text": "",
+      "publisher": "r/AskReddit",
+      "thread_id": null,
+      "parent_id": null,
+      "floor_number": null,
+      "engagement": {
+        "search_rank": 2
+      },
+      "media": [],
+      "collection_method": "anysearch_cli_search",
+      "coverage": {
+        "level": "partial",
+        "discovered_pages": 1,
+        "content_pages": 0,
+        "comment_pages": 0,
+        "includes_nested_comments": false,
+        "upstream_reports_more": false,
+        "notes": "AnySearch 仅返回搜索摘要，正文请使用 anysearch-extract 或网页正文提取"
+      },
+      "raw_ref": "raw/anysearch-search-1.md",
+      "status": "ok",
+      "error": null,
+      "extra": {
+        "query": "高中 暗恋 故事",
+        "engine": "anysearch",
+        "search_rank": 2,
+        "date_text": "11 years ago"
+      }
+    }
+  ],
+  "comments": [],
+  "comment_tree": [],
+  "run_id": "anysearch-smoke"
+}

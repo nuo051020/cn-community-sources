@@ -1,0 +1,180 @@
+{
+  "schema_version": "1.0.0",
+  "generated_at": "2026-09-28T06:22:27Z",
+  "verdict": "unavailable",
+  "providers": [
+    {
+      "provider": "tieba",
+      "status": "ready",
+      "detail": "公开移动端搜索接口已配置，仅做本地就绪检查（未联网探测）；返回摘要级别证据，不声称完整正文",
+      "capabilities": [
+        "search"
+      ],
+      "checked_at": "2026-09-28T06:22:27Z"
+    },
+    {
+      "provider": "tieba-aiotieba",
+      "status": "ready",
+      "detail": "aiotieba 已安装；按 TID 读取主题帖、楼层与楼中楼",
+      "capabilities": [
+        "thread",
+        "comments",
+        "nested_comments"
+      ],
+      "checked_at": "2026-09-28T06:22:27Z"
+    },
+    {
+      "provider": "tieba-thread",
+      "status": "ready",
+      "detail": "使用公开 Web 接口（/mo/q/thread 服务端渲染页面）读取楼层与楼中楼，不依赖可选依赖 aiotieba；仅做本地就绪检查（未联网探测），不发送 Cookie、不登录、不尝试绕过验证码",
+      "capabilities": [
+        "thread",
+        "comments",
+        "nested_comments"
+      ],
+      "checked_at": "2026-09-28T06:22:27Z"
+    },
+    {
+      "provider": "anysearch",
+      "status": "ready",
+      "detail": "AnySearch CLI 可用（来源：runtime.conf）；已检测到 API key 存在（只做存在性检查，不记录、不回显、不转发其值）",
+      "capabilities": [
+        "search",
+        "extract"
+      ],
+      "checked_at": "2026-09-28T06:22:27Z"
+    },
+    {
+      "provider": "justone",
+      "status": "unavailable",
+      "detail": "Just One API 只能通过 Codex 会话内的 justoneapi MCP 工具调用，本地进程无法直接执行；请先运行 justone-manifest 生成调用清单，由会话完成端点发现与采集后，再用 ingest-justone 归一化响应",
+      "capabilities": [
+        "manifest",
+        "ingest"
+      ],
+      "checked_at": "2026-09-28T06:22:27Z"
+    },
+    {
+      "provider": "steam",
+      "status": "ready",
+      "detail": "官方 Steam appreviews 公共只读接口已内置",
+      "capabilities": [
+        "reviews",
+        "pagination",
+        "language_filter"
+      ],
+      "checked_at": "2026-09-28T06:22:27Z"
+    },
+    {
+      "provider": "justone-mcp",
+      "status": "unavailable",
+      "detail": "JUSTONEAPI_TOKEN 未设置：B站/知乎/小红书需要会话级 MCP 凭据",
+      "capabilities": [],
+      "checked_at": "2026-09-28T06:22:27Z"
+    }
+  ],
+  "checks": {
+    "tieba_smoke": {
+      "status": "ok",
+      "provider_status": "degraded",
+      "records": 6,
+      "comments": 0,
+      "termination": "page_limit",
+      "coverage": {
+        "level": "partial",
+        "discovered_pages": 1,
+        "content_pages": 1,
+        "comment_pages": 0,
+        "includes_nested_comments": false,
+        "upstream_reports_more": true,
+        "notes": "公开移动端搜索仅返回摘要与主题帖元数据，正文需用 aiotieba 深挖; 达到页数上限（page_limit=1），上游仍报告更多结果"
+      },
+      "calls": 1,
+      "from_cache": 1,
+      "run_dir": "/Users/anesthetic/Desktop/cn-community-sources/adapter/../var/source-adapter/outputs/20260928T062227Z-tieba-高中-暗恋",
+      "gaps": [
+        "贴吧公开搜索达到页数上限，仍有更多结果未采集",
+        "达到页数上限（pages=1），上游仍报告更多结果"
+      ],
+      "failures": [],
+      "artifacts": [
+        "raw/tieba-public-search-p1.json",
+        "records.jsonl",
+        "run-report.json",
+        "search-agent-input.json",
+        "threads/tieba-11004558386.json",
+        "threads/tieba-11018273057.json",
+        "threads/tieba-11018355564.json",
+        "threads/tieba-11045552764.json",
+        "threads/tieba-11055306882.json",
+        "threads/tieba-11059701902.json"
+      ]
+    },
+    "anysearch_smoke": {
+      "status": "ok",
+      "provider_status": "ok",
+      "records": 3,
+      "comments": 0,
+      "termination": "unknown",
+      "coverage": {
+        "level": "partial",
+        "discovered_pages": 1,
+        "content_pages": 0,
+        "comment_pages": 0,
+        "includes_nested_comments": false,
+        "upstream_reports_more": false,
+        "notes": "AnySearch 仅返回搜索摘要，正文请使用 anysearch-extract 或网页正文提取"
+      },
+      "calls": 1,
+      "from_cache": 0,
+      "run_dir": "/Users/anesthetic/Desktop/cn-community-sources/adapter/../var/source-adapter/outputs/20260928T062227Z-anysearch-高中-暗恋-故事",
+      "gaps": [],
+      "failures": [],
+      "artifacts": [
+        "raw/anysearch-search-1.md",
+        "records.jsonl",
+        "run-report.json",
+        "search-agent-input.json",
+        "threads/anysearch-url-27197a5585375f0f.json",
+        "threads/anysearch-url-366ba5a3095b69bd.json",
+        "threads/anysearch-url-d81b98b1573bddb7.json"
+      ]
+    },
+    "justone_endpoint_discovery": {
+      "status": "unavailable",
+      "reason": "JUSTONEAPI_TOKEN 未设置：直连通道不可用。仍可用 justone-manifest 生成清单、由会话执行，再用 ingest-justone 归一化",
+      "manifest_command": "python3 -m source_adapter justone-manifest bilibili \"校园 爱情 故事\" --comments --limit 20",
+      "ingest_command": "python3 -m source_adapter ingest-justone bilibili <saved-response.json> --output <dir>"
+    },
+    "tieba_deep_dive": {
+      "status": "ready",
+      "via": "tieba-thread（公开移动页，无需可选依赖）",
+      "reason": "使用公开 Web 接口（/mo/q/thread 服务端渲染页面）读取楼层与楼中楼，不依赖可选依赖 aiotieba；仅做本地就绪检查（未联网探测），不发送 Cookie、不登录、不尝试绕过验证码"
+    }
+  },
+  "gaps": [
+    "贴吧公开搜索：贴吧公开搜索达到页数上限，仍有更多结果未采集",
+    "贴吧公开搜索：达到页数上限（pages=1），上游仍报告更多结果",
+    "Just One API 端点发现未完成：JUSTONEAPI_TOKEN 未设置（直连通道不可用）"
+  ],
+  "coverage_limits": [
+    "贴吧公开移动端搜索只返回摘要与主题帖元数据；完整正文与楼中楼走 tieba-thread 公开移动页，且上游只渲染前 30 层",
+    "AnySearch 返回搜索摘要；正文需另行 extract",
+    "Just One API 的数据端点 ID 由运行时发现，不写死；发现与 schema 读取免费，数据调用计费",
+    "本次验证不做批量收费调用"
+  ],
+  "banned_code_paths": [],
+  "scan_root": "/Users/anesthetic/Desktop/cn-community-sources/adapter",
+  "cost": {
+    "paid_calls": 0,
+    "estimated_cost": "0",
+    "note": "本管线不产生费用；Just One API 的付费批量调用必须由用户单独确认后才在会话内执行"
+  },
+  "exclusions": [
+    "不使用 Computer Use 类桌面操控",
+    "不使用任何浏览器自动化框架",
+    "不绕过验证码、登录墙或访问控制",
+    "不执行发帖、点赞、关注、私信等账号操作",
+    "不采集或推断敏感个人信息，公开昵称仅用于原文定位"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "schema_version": "1.0.0",
+  "run_id": "tieba-smoke",
+  "mode": "tieba-search",
+  "query": "高中 暗恋",
+  "status": "degraded",
+  "termination": "page_limit",
+  "started_at": "2026-09-28T06:22:23Z",
+  "finished_at": "2026-09-28T06:22:23Z",
+  "providers": [
+    {
+      "provider": "tieba",
+      "status": "ready",
+      "detail": "解析 6 条主题帖",
+      "capabilities": [],
+      "checked_at": "2026-09-28T06:22:23Z"
+    }
+  ],
+  "calls": 1,
+  "from_cache": 1,
+  "pages": 1,
+  "records": 6,
+  "comments": 0,
+  "threads": 6,
+  "failures": [],
+  "gaps": [
+    "贴吧公开搜索达到页数上限，仍有更多结果未采集",
+    "达到页数上限（pages=1），上游仍报告更多结果"
+  ],
+  "coverage": {
+    "level": "partial",
+    "discovered_pages": 1,
+    "content_pages": 1,
+    "comment_pages": 0,
+    "includes_nested_comments": false,
+    "upstream_reports_more": true,
+    "notes": "公开移动端搜索仅返回摘要与主题帖元数据，正文需用 aiotieba 深挖; 达到页数上限（page_limit=1），上游仍报告更多结果"
+  },
+  "limits": [
+    "公开移动端搜索仅返回摘要与主题帖元数据，正文需用 aiotieba 深挖; 达到页数上限（page_limit=1），上游仍报告更多结果"
+  ],
+  "cost": {
+    "paid_calls": 0,
+    "estimated_cost": "0",
+    "measured": {},
+    "note": "本管线不产生费用；Just One API 的付费批量调用必须由用户单独确认后才在会话内执行"
+  },
+  "audit": [],
+  "written": {
+    "raw/tieba-public-search-p1.json": "verification/tieba-smoke/raw/tieba-public-search-p1.json",
+    "records.jsonl": "verification/tieba-smoke/records.jsonl",
+    "threads/tieba-11045552764.json": "verification/tieba-smoke/threads/tieba-11045552764.json",
+    "threads/tieba-11059701902.json": "verification/tieba-smoke/threads/tieba-11059701902.json",
+    "threads/tieba-11055306882.json": "verification/tieba-smoke/threads/tieba-11055306882.json",
+    "threads/tieba-11018355564.json": "verification/tieba-smoke/threads/tieba-11018355564.json",
+    "threads/tieba-11018273057.json": "verification/tieba-smoke/threads/tieba-11018273057.json",
+    "threads/tieba-11004558386.json": "verification/tieba-smoke/threads/tieba-11004558386.json",
+    "search-agent-input.json": "verification/tieba-smoke/search-agent-input.json"
+  },
+  "exclusions": [
+    "不使用 Computer Use 类桌面操控",
+    "不使用任何浏览器自动化框架",
+    "不绕过验证码、登录墙或访问控制",
+    "不执行发帖、点赞、关注、私信等账号操作",
+    "不采集或推断敏感个人信息，公开昵称仅用于原文定位"
+  ]
+}

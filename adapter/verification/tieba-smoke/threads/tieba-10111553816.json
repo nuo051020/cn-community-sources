@@ -1,0 +1,71 @@
+{
+  "schema_version": "1.0.0",
+  "platform": "tieba",
+  "thread_id": "tieba:10111553816",
+  "title": "暗恋至上【25-10-09】考上大学，却在你心里落榜了吗？",
+  "url": "https://tieba.baidu.com/p/10111553816",
+  "collection_method": "tieba_public_search_json",
+  "retrieved_at": "2026-09-28T06:07:33Z",
+  "coverage": {
+    "level": "partial",
+    "discovered_pages": 1,
+    "content_pages": 0,
+    "comment_pages": 0,
+    "includes_nested_comments": false,
+    "upstream_reports_more": true,
+    "notes": "公开移动端搜索仅返回摘要与主题帖元数据，正文需用 aiotieba 深挖; 达到页数上限（page_limit=1），上游仍报告更多结果"
+  },
+  "record_count": 1,
+  "comment_count": 0,
+  "records": [
+    {
+      "source_id": "tieba:10111553816",
+      "platform": "tieba",
+      "record_kind": "thread",
+      "source_type": "community",
+      "title": "暗恋至上【25-10-09】考上大学，却在你心里落榜了吗？",
+      "url": "https://tieba.baidu.com/p/10111553816",
+      "author_display_name": "不必多🧂",
+      "published_at": "2025-10-09T15:45:11Z",
+      "retrieved_at": "2026-09-28T06:07:33Z",
+      "excerpt": "鼠鼠，想分析一个高中的暗恋故事，不知道有没有人看呢",
+      "full_text": "",
+      "publisher": "",
+      "thread_id": null,
+      "parent_id": null,
+      "floor_number": null,
+      "engagement": {
+        "replies": 53,
+        "likes": 26,
+        "shares": 0,
+        "views": 0
+      },
+      "media": [],
+      "collection_method": "tieba_public_search_json",
+      "coverage": {
+        "level": "partial",
+        "discovered_pages": 1,
+        "content_pages": 0,
+        "comment_pages": 0,
+        "includes_nested_comments": false,
+        "upstream_reports_more": true,
+        "notes": "公开移动端搜索仅返回摘要与主题帖元数据，正文需用 aiotieba 深挖; 达到页数上限（page_limit=1），上游仍报告更多结果"
+      },
+      "raw_ref": "raw/tieba-public-search-p1.json",
+      "status": "ok",
+      "error": null,
+      "extra": {
+        "forum_name": "暗恋",
+        "forum_id": 95003,
+        "thread_types": 1024,
+        "search_rank": 20,
+        "page": 1,
+        "discovery_only": true,
+        "content_truncated_by_upstream": true
+      }
+    }
+  ],
+  "comments": [],
+  "comment_tree": [],
+  "run_id": "tieba-smoke"
+}

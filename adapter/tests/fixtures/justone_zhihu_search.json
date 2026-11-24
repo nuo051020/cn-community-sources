@@ -1,0 +1,94 @@
+{
+  "code": "0",
+  "message": "None",
+  "success": true,
+  "truncated": false,
+  "endpoint_id": "<discovered-at-runtime>",
+  "data": {
+    "code": 0,
+    "message": "0",
+    "ttl": 1,
+    "data": [
+      {
+        "type": "search_result",
+        "index": 0,
+        "highlight": {
+          "description": "直到现在，我也不清楚她到底喜不喜欢我。 <em>高一</em>那年秋天，我在操场上喊了三声她的名字。 第一声，她没听见",
+          "title": "可以留下属于你的<em>暗恋故事</em>吗?"
+        },
+        "object": {
+          "id": "2085450288761198119",
+          "type": "answer",
+          "answer_type": "normal",
+          "title": "可以留下属于你的暗恋故事吗?",
+          "content": "<p data-pid=\"MxUZd2Uy\">直到现在，我也不清楚她到底喜不喜欢我。</p><p data-pid=\"bdqw6PpI\">高一那年秋天，我在操场上喊了三声她的名字。</p><p data-pid=\"kV8LeJTz\">第一声，她没听见。第二声，她的步子顿了一下，没回头。第三声，她转过身来。太阳在她背后，脸逆着光，我看不清她的表情。她看了我两三秒，开口，语气平得像操场边被风压平的草尖：</p><p data-pid=\"Qf8egUWs\">“什么事？”</p><p data-pid=\"pCAMx6r7\">我站在跑道边，嘴张开，又合上。准备了三年的话，一个字都出不来。</p><p data-pid=\"Fg9aORei\">我说“没事”，转过身，走了。</p><p data-pid=\"R0R-FDmB\">那两个字，我后悔了三十多年。</p><p data-pid=\"P0OkoCRv\">三十多年。一万多天。我从少年走到了中年，从一间教室走到了另一座城市，从一个人走到了另一个人身边。可每次闭上眼睛，她还是那个坐在第二排靠窗的女孩。白衬衫，粉裙子，低头写字，麻花辫垂在桌沿。光从窗外照进来，落在她的侧脸上。我坐在倒数第二排，隔着那么多张课桌，那么多个人，只看得见她一个人。</p><p data-pid=\"a1yzvCrz\">班里有个男生跟我说，班花是另一个女生。我没接话。我在想，靠窗第二排那个扎麻花辫的，怎么没人提。</p><p data-pid=\"SN43gDqv\">初一第一次文艺汇演，我们班跳《摇太阳》。全场那么多人，那么多张脸，我只盯着她。她转圈的时候裙摆扬起来，像一朵花在风里开了一下。那一刻我就知道，我完了。</p><p data-pid=\"lkwbjgIz\">后来她数学考砸了。老师把她叫上讲台，一道题一道题地念。念一道，她的头就低一寸。她站在讲台边，手指一遍遍摸刘海。抬起来，放下去，再抬起来。我坐在底下数。数到第三十七下，她走下讲台，把脸埋进了胳膊里。</p><p data-pid=\"c7_Nfmo9\">我想冲上去。我想替她把那些卷子撕了。我想跟老师说，你别念了。可我什么都没做。我只是坐在那里，数着她的手指抬了多少次。</p><p data-pid=\"Ob4_hqcH\">当天下午调座位，她被调到最后一排，正对着我的后背。</p><p data-pid=\"WXydGhXc\">她搬桌子，课本抱了三趟。第一趟五六本，第二趟剩下的，第三趟是文具盒和练习册。麻花辫在背后晃来晃去，辫梢碰到腰线又弹回去。她坐下来之后，我能感觉到身后多了一个人的呼吸。铅笔落在纸上的声音很轻，写两三下，停一下，再继续。那个声音我后来记了很多年。比任何歌都好听。</p><p data-pid=\"3H-AmRnC\">后来熟了，我叫她狐狸，她叫我方脸螃蟹青蛙。我们经常去音乐阶梯教室聊天。有一次上课讲话被语文老师抓了。我反驳，为啥其他人讲话不抓，单抓我们两个。老师说：我就看到你们两个在讲话。于是两个人一起罚站到走廊上。</p><p data-pid=\"ufpQXCkX\">我站在她旁边。她站在我旁边。走廊很长，阳光从窗户照进来，把两个人的影子投在地上，挨在一起。我那时候想，如果能一直这么罚站下去，也挺好的。</p><p data-pid=\"HbCmqecl\">我跟她说，我们被抓，主要是因为成绩不好。成绩好的那几个，老师都没抓。我跟她说，我一定会考全班第一。</p><p data-pid=\"cvt0tRgD\">我说那句话的时候，是认真的。我想考第一，不为别的，就为了让她知道，跟她站在一起的那个人，不差。</p><p data-pid=\"Aj0JxVc0\">有一次她又被数学老师批评了，哭得稀里哗啦。我心里比她还难受。那种难受，比自己被骂了一百遍还疼。趁她不注意，在她课桌上塞了一张纸条，上面只写了几个字：别哭，让我们一起加油。</p><p data-pid=\"X-r8iJtc\">“一起”两个字，我写得很轻。我怕写重了。</p><p data-pid=\"x3Jgh69c\">她看出来那里面藏着别的意思。</p><p data-pid=\"_lSohlin\">第二天，她让好朋友方璐来找我，问：“你喜不喜欢雨娜？”</p><p data-pid=\"BgQ3QHLP\">我点了点头的时候，我听见自己的心跳了。那种心跳，这辈子只听过那一次。</p><p data-pid=\"gP1jRDJU\">当天晚上，她给我塞了一张纸条。上面写着：让我们共同面对美好的明天。雨娜。</p><p data-pid=\"Z6r3ecHo\">那张纸条我留着。折好，夹在书里。后来书卖了，纸条不知道去了哪里。但那句话我记着。“共同面对美好的明天”。她说的。她亲手写的。那张纸条在我口袋里待了一整天，纸边被我的手指磨毛了。我那天晚上睡觉的时候把它压在枕头底下，像压着一样我舍不得用掉的东西。</p><p data-pid=\"7bx6klp4\">我还记得，音乐考试她唱的是一首日本民谣，《绿叶》。</p><p data-pid=\"7hU8fBtK\">然后初二分班了。她去了围墙那边，初二B班。我留在这边，初二一班。</p><p data-pid=\"655HexBJ\">两人很难见到面。不知道为什么，她看到我就跑。导致我看到她也紧张。那种紧张到现在都还记得。走廊上远远看见她的影子，我的心就提起来，提到嗓子眼，然后她跑了。每次都是。我站在原地，看着她背影消失在拐角。</p><p data-pid=\"DFdWTT6F\">初二那年文艺汇演，她跳的是《梦里水乡》。我坐在底下，看着她转圈，裙摆扬起来。我想起初一那次，同样的舞台，同样的她。我在想，她是不是也在看我。她没有。她从头到尾都没有往我这边看一眼。</p><p data-pid=\"Q89oPHqP\">分班第一年，我病了。</p><p data-pid=\"tl6SAYI9\">脖子两侧发紧，疼得晚上睡不着。医院不给开药，我自己去药店买消炎药吃。药吃多了，副作用让脸上起了好多红疹。疹子破了，留下暗红色的印子，一片一片的。同学问我脸上怎么这么多痘，我说“青春痘”。后来没人再问了。也是在那时候，我戴上了眼镜。</p><p data-pid=\"hEPqXYSJ\">那段时间，脖子疼得我差点没撑过去。</p><p data-pid=\"Nhp4AaE-\">有一个夜里，我坐起来，从床头柜抽屉里翻出一把削铅笔的小刀。打开，放在手心里。刀刃在月光下泛着一截细长的白。我看着它，整条手臂都在发凉。</p><p data-pid=\"UU4_gJ-W\">我想，就这样吧。不疼了。什么都不用想了。</p><p data-pid=\"qedD16cX\">然后我想起来，我答应过她，要考全班第一。</p><p data-pid=\"kVzhUQQr\">那个约定像一只手，从很深的地方伸上来，把我拽住了。我坐在床边，刀还在手里。我想，如果我现在走了，她会不会知道。她会怎么想。她会不会觉得，那个人，说话不算话。</p><p data-pid=\"z__A58mY\">我把刀合上，放回抽屉。</p><p data-pid=\"oSnx8hGy\">那天晚上我没有睡。我坐在书桌前，翻开课本。脖子还在疼。脸上的印子还在。但我想，我还能撑一天。撑完这一天，再说。</p><p data-pid=\"H6dMTluS\">第二天，我搬到了最后一排靠墙的位置。把周围清空，重新开始。每天晚上做俯卧撑，在院子里跑圈，边跑边背英语。拼命学习，别人都喊我疯子。经常晚上灯光不好时看书，近视越来越深。可语文拖后腿，成绩一直排年级第二。不管怎么努力，前面总有一个年级第一的阿杰。</p><p data-pid=\"SBkdRNat\">初三分班，我还在一班，她被分到了四班。她的班主任，就是初一的数学老师，也是我们班的数学老师。我被任命为数学课代表。每次交作业，都要路过她班级门口。</p><p data-pid=\"raRUxrxp\">我每次经过，都放慢脚步。</p><p data-pid=\"n-p6UqYT\">门有时候开着，有时候关着。开着的时候，我会往里面看一眼。她在第三排靠窗的位置。白衬衫，短发。她的头发剪了。我不知道她什么时候剪的。麻花辫没了。我想问她为什么剪，可我不敢。</p><p data-pid=\"J5Kov8um\">我不敢走到她面前去。我觉得自己脸上那些印子太丑了，配不上她。我避着她。走廊上碰见，低着头走过去。</p><p data-pid=\"_PYOd0aE\">我低着头，不是不想看她。是怕她看见我。</p><p data-pid=\"NGtsUC9v\">直到高一，我终于拿到全年级第一的那天。</p><p data-pid=\"CX1oX09L\">那个第一，我等了三年。一千多个日夜。脖子疼的时候我在等，脸上破皮的时候我在等，别人喊我疯子的时候我在等。我等到了。</p><p data-pid=\"B6nMzyJZ\">那天下午，我走到操场上。她在操场上，白衬衫，短发。我站在跑道边，看着她。然后我喊了第一声。</p><p data-pid=\"EhXT0QMz\">她没听见。</p><p data-pid=\"57m4rLgR\">我喊了第二声。她的步子顿了一下，没回头。</p><p data-pid=\"QYlvySio\">我喊了第三声。</p><p data-pid=\"UlSO4N9J\">她转过身来。太阳在她背后，脸逆着光。我看不清她的表情。她看了我两三秒，开口，语气平得像操场边被风压平的草尖：</p><p data-pid=\"y0mrWxMA\">“什么事。”</p><p data-pid=\"TGkzht8U\">我站在跑道边。准备了三年的话，在那一刻全部涌到了喉咙口。那些话，我练过无数遍。我练过在走廊上怎么说，练过在操场上怎么说，练过在只有我们两个人的地方怎么说。可那一刻，她站在那里。我站在这里。中间隔着三年的时光，隔着那些红疹，隔着那副眼镜，隔着那把被我合上的刀。</p><p data-pid=\"5FjLLGHA\">我说：“没事。”</p><p data-pid=\"_uLGOnik\">我转过身，走了。</p><p data-pid=\"sabTyK8Q\">走了三步。四步。五步。我每走一步都在想，回头。回头。回头喊她。喊她的名字。喊出那句在喉咙里堵了三年的话。</p><p data-pid=\"6z_8lRXn\">我没有回头。</p><p data-pid=\"4jEyaA5C\">那两个字，我后悔了三十多年。</p><p data-pid=\"QGCVXp_n\">三十多年里，我无数次梦见那个操场。梦里我回头了。梦里我说了。梦里她笑了。可醒来的时候，还是那个没有回头的背影。</p><p data-pid=\"OUGMyS7D\">三十多年过去了。我还是很喜欢她。</p><p data-pid=\"lCQMlsTE\">现在AI这么发达，我已经把她初三的照片还原出来了。每次看到她的照片，总有想哭的冲动。那张脸，我看了好多年，现在我还在看。隔了三十多年。隔了一辈子。</p><p data-pid=\"XoJcdvwG\">说出来可能没人信。我怕打针抽血。每次针尖快落下来的时候，只要在心里默念她的名字，恐惧就会少很多。我怕上台演讲。每次上台前，也会在心里喊一声她的名字，像喊一个口令。喊完，就能站直。</p><p data-pid=\"FZNLvPfN\">可能是那次我想做傻事的时候，是她给了我活下去的勇气吧。</p><p data-pid=\"tUaVFeRB\">那晚我坐在床边，刀在手里，没走。因为她。</p><p data-pid=\"xILOXCS0\">她大概不知道。她这辈子可能都不会知道，她救过一个人。在她完全不知道的时候，在她可能已经忘了那个人的时候，她救过他。</p><p data-pid=\"DBJafSCz\">我已经三十多年没见过她了。我只知道她2005年从浙理工毕业，之后去了上海，之后再也没有消息。</p><p data-pid=\"LPv9tg5c\">我只求一件事。求她还好好生活着。记得我也好，不记得我也好。只要她还在这个世界上。呼吸着，走着，活着。</p><p data-pid=\"izgOpURk\">就行了。</p><p data-pid=\"mZ9A6WQR\">如果你认识她，请告诉她：有个人，还记得那个约定。</p><p data-pid=\"CL5cJ-f3\">那个人，喜欢她三十多年。（雨娜是她的化名）</p>",
+          "excerpt": "直到现在，我也不清楚她到底喜不喜欢我。 <em>高一</em>那年秋天，我在操场上喊了三声她的名字。 第一声，她没听见",
+          "description": "",
+          "url": "https://api.zhihu.com/answers/2085450288761198119",
+          "created_time": 1789990094,
+          "updated_time": 1789990094,
+          "voteup_count": 1,
+          "comment_count": 0,
+          "visits_count": 469,
+          "favorites_count": 0,
+          "answer_count": 7,
+          "is_anonymous": false,
+          "author": {
+            "name": "钱佳",
+            "id": "3b45b78078f25f0824cf7818203589f9",
+            "headline": "",
+            "follower_count": 0
+          },
+          "question": {
+            "id": "1917367885606688510",
+            "name": "可以留下属于你的<em>暗恋故事</em>吗?",
+            "type": "question",
+            "answer_count": 0,
+            "follow_count": 0
+          }
+        }
+      },
+      {
+        "type": "search_result",
+        "index": 1,
+        "highlight": {
+          "description": "<em>高中</em>的时候<em>暗恋</em>同班的一个男生，连续一周大清早从被窝爬起来，提前去学校，趁没人的时候偷偷把早餐塞他抽屉",
+          "title": "<em>高中</em>恋爱有什么搞笑的事？"
+        },
+        "object": {
+          "id": "364892125",
+          "type": "answer",
+          "answer_type": "normal",
+          "title": "高中恋爱有什么搞笑的事？",
+          "content": "<p data-pid=\"Xkn5rBd6\">高中的时候暗恋同班的一个男生，连续一周大清早从被窝爬起来，提前去学校，趁没人的时候偷偷把早餐塞他抽屉，塑料袋里还放着我写的爱心便签纸。。。</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"DUGCr2Uw\">我仍然清晰地记得那是周五的清晨</p><p data-pid=\"y4UcYvNG\">当我还在美滋滋 喜洋洋沉浸在自我感动的幻想中，我暗恋的男生睡眼朦胧地走进教室坐了下来，盯着抽屉里的“礼物”沉默了一分钟，表情阴晴不定</p><p data-pid=\"Rqhr89Kf\">喵？<br/></p><p data-pid=\"4N9G0zHm\">难道他知道是我写的？</p><p data-pid=\"9fY6XMVC\">他这么聪明？</p><p data-pid=\"eU71Imi_\">开玩笑他当然很聪明啦！</p><p class=\"ztext-empty-paragraph\"><br/></p><p data-pid=\"dh4akBp6\">随后火山爆发一般“噌”地站了起来，提起我买的煎饼果子歇斯底里地怒吼道：“谁他吗连续一周把吃剩下的早餐丢我抽屉里，是不是有病？？？”</p><figure data-size=\"normal\"><figure data-size=\"normal\"><noscript><img data-rawheight=\"234\" src=\"https://pic3.zhimg.com/v2-7d0b57c22b5473f047a3e07ba1c897a4_1440w.jpg\" data-size=\"normal\" data-rawwidth=\"357\" data-original-token=\"v2-7d0b57c22b5473f047a3e07ba1c897a4\" class=\"content_image\" width=\"357\"/></noscript><img data-rawheight=\"234\" src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;357&#39; height=&#39;234&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"357\" data-original-token=\"v2-7d0b57c22b5473f047a3e07ba1c897a4\" class=\"content_image lazy\" width=\"357\" data-actualsrc=\"https://pic3.zhimg.com/v2-7d0b57c22b5473f047a3e07ba1c897a4_1440w.jpg\"/></figure></figure><hr/><p data-pid=\"_G6Iw1oW\">嗯，然后就没然后了，吃瘪的第一次暗恋就这样结束了。</p><p data-pid=\"8VvFG2ZU\">以及，这是我第一次接触钢铁直男这种生物，阔怕。</p><figure data-size=\"normal\"><figure data-size=\"normal\"><noscript><img data-rawheight=\"329\" src=\"https://pic1.zhimg.com/v2-1f4cd5d66cff5cf00aeadc584562c18a_1440w.jpg\" data-size=\"normal\" data-rawwidth=\"440\" data-original-token=\"v2-1f4cd5d66cff5cf00aeadc584562c18a\" class=\"origin_image zh-lightbox-thumb\" width=\"440\" data-original=\"https://pic1.zhimg.com/v2-1f4cd5d66cff5cf00aeadc584562c18a_r.jpg\"/></noscript><img data-rawheight=\"329\" src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;440&#39; height=&#39;329&#39;&gt;&lt;/svg&gt;\" data-size=\"normal\" data-rawwidth=\"440\" data-original-token=\"v2-1f4cd5d66cff5cf00aeadc584562c18a\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"440\" data-original=\"https://pic1.zhimg.com/v2-1f4cd5d66cff5cf00aeadc584562c18a_r.jpg\" data-actualsrc=\"https://pic1.zhimg.com/v2-1f4cd5d66cff5cf00aeadc584562c18a_1440w.jpg\"/></figure></figure>",
+          "excerpt": "<em>高中</em>的时候<em>暗恋</em>同班的一个男生，连续一周大清早从被窝爬起来，提前去学校，趁没人的时候偷偷把早餐塞他抽屉",
+          "description": "讲述高中恋爱的趣事",
+          "url": "https://api.zhihu.com/answers/364892125",
+          "created_time": 1523509559,
+          "updated_time": 1525449655,
+          "voteup_count": 18108,
+          "comment_count": 676,
+          "visits_count": 80275720,
+          "favorites_count": 0,
+          "answer_count": 4414,
+          "is_anonymous": false,
+          "author": {
+            "name": "韵韵",
+            "id": "4677161d936537dc1540393955cedab0",
+            "headline": "",
+            "follower_count": 11886
+          },
+          "question": {
+            "id": "271524836",
+            "name": "<em>高中</em>恋爱有什么搞笑的事？",
+            "type": "question",
+            "answer_count": 0,
+            "follow_count": 0
+          }
+        }
+      }
+    ]
+  },
+  "next_step": null,
+  "warnings": []
+}

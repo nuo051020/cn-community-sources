@@ -1,0 +1,50 @@
+{
+  "code": 0,
+  "message": "0",
+  "data": {
+    "page": 1,
+    "has_more": false,
+    "list": [
+      {
+        "bvid": "BV1wN4y1D7gz",
+        "aid": 743812345,
+        "title": "真实的高中校园暗恋故事！你是否也曾经有过一个爱而不得的人",
+        "desc": "真实的高中校园暗恋故事！你是否也曾经有过一个爱而不得的人呢？这是一个关于暗恋、错过与释怀的短片。",
+        "pubdate": 1699497600,
+        "duration": 312,
+        "owner": {
+          "mid": 1234567,
+          "name": "校园故事计划"
+        },
+        "stat": {
+          "view": 128000,
+          "danmaku": 231,
+          "reply": 456,
+          "like": 7890,
+          "coin": 321,
+          "favorite": 654,
+          "share": 87
+        },
+        "pic": "https://i0.hdslb.com/bfs/archive/example-cover.jpg",
+        "replies": [
+          {
+            "rpid": 1400000001,
+            "parent": 0,
+            "like": 231,
+            "ctime": 1699500000,
+            "member": { "uname": "观众甲" },
+            "content": { "message": "看到最后一段直接破防了，我高中也是这样。" }
+          },
+          {
+            "rpid": 1400000002,
+            "parent": 1400000001,
+            "like": 12,
+            "ctime": 1699500300,
+            "member": { "uname": "观众乙" },
+            "content": { "message": "同感，那种不敢说出口的感觉太真实了。" }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schema_version": "1.0.0",
+  "platform": "tieba",
+  "thread_id": "tieba:11018273057",
+  "title": "鼠鼠的高中暗恋小故事",
+  "url": "https://tieba.baidu.com/p/11018273057",
+  "collection_method": "tieba_public_search_json",
+  "retrieved_at": "2026-09-28T06:22:23Z",
+  "coverage": {
+    "level": "partial",
+    "discovered_pages": 1,
+    "content_pages": 0,
+    "comment_pages": 0,
+    "includes_nested_comments": false,
+    "upstream_reports_more": true,
+    "notes": "公开移动端搜索仅返回摘要与主题帖元数据，正文需用 aiotieba 深挖; 达到页数上限（page_limit=1），上游仍报告更多结果"
+  },
+  "record_count": 1,
+  "comment_count": 0,
+  "records": [
+    {
+      "source_id": "tieba:11018273057",
+      "platform": "tieba",
+      "record_kind": "thread",
+      "source_type": "community",
+      "title": "鼠鼠的高中暗恋小故事",
+      "url": "https://tieba.baidu.com/p/11018273057",
+      "author_display_name": "kie·",
+      "published_at": "2026-09-12T14:07:48Z",
+      "retrieved_at": "2026-09-28T06:22:23Z",
+      "excerpt": "好久没见她了，好想她啊 记录一下那段日子 555她不回我消息",
+      "full_text": "",
+      "publisher": "",
+      "thread_id": null,
+      "parent_id": null,
+      "floor_number": null,
+      "engagement": {
+        "replies": 24,
+        "likes": 7,
+        "shares": 0,
+        "views": 0
+      },
+      "media": [],
+      "collection_method": "tieba_public_search_json",
+      "coverage": {
+        "level": "partial",
+        "discovered_pages": 1,
+        "content_pages": 0,
+        "comment_pages": 0,
+        "includes_nested_comments": false,
+        "upstream_reports_more": true,
+        "notes": "公开移动端搜索仅返回摘要与主题帖元数据，正文需用 aiotieba 深挖; 达到页数上限（page_limit=1），上游仍报告更多结果"
+      },
+      "raw_ref": "raw/tieba-public-search-p1.json",
+      "status": "ok",
+      "error": null,
+      "extra": {
+        "forum_name": "核战避难所",
+        "forum_id": 17641967,
+        "thread_types": 1040,
+        "search_rank": 5,
+        "page": 1,
+        "discovery_only": true,
+        "content_truncated_by_upstream": true
+      }
+    }
+  ],
+  "comments": [],
+  "comment_tree": [],
+  "run_id": "tieba-smoke"
+}

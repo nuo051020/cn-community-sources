@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.cache/
+outputs/
+var/
+adapter/.cache/
+adapter/outputs/
+.DS_Store

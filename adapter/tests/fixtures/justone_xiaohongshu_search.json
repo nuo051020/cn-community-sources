@@ -1,0 +1,91 @@
+{
+  "code": 0,
+  "message": null,
+  "success": true,
+  "truncated": false,
+  "endpoint_id": "<discovered-at-runtime>",
+  "data": {
+    "items": [
+      {
+        "model_type": "note",
+        "note": {
+          "id": "68213c89000000002202de57",
+          "title": "我高中时候居然上过表白墙，我都不知道[石化R]，真纯读书啊我？？？#表白墙 #暗",
+          "desc": "我高中时候居然上过表白墙，我都不知道[石化R]，真纯读书啊我？？？#表白墙  #暗恋",
+          "type": "normal",
+          "timestamp": 1747008649,
+          "liked_count": 1897,
+          "comments_count": 170,
+          "collected_count": 143,
+          "shared_count": 32,
+          "xsec_token": "YBqiviuLGuxZbX5lzFjs2-ZjZIYCzykngmYFY1alHL764=",
+          "user": {
+            "nickname": "微微奇思妙想记",
+            "userid": "62ffc26b000000001200d59f",
+            "red_id": "5307971297"
+          },
+          "images_list": [
+            {
+              "url": "https://sns-na-i2.xhscdn.com/1040g2sg31hc4s9avk2e05onvo9lkhlcvevu1cqo?imageView2/2/w/576/format/webp/q/87%7CimageMogr2/strip&redImage/frame/0&ap=5&sc=SRH_PRV&sign=28fcdfb313174936082327160ccd91bc&t=6ab4d7b9",
+              "url_size_large": "https://sns-na-i2.xhscdn.com/1040g2sg31hc4s9avk2e05onvo9lkhlcvevu1cqo?imageView2/2/w/1440/format/webp&ap=5&sc=SRH_DTL&sign=28fcdfb313174936082327160ccd91bc&t=6ab4d7b9",
+              "width": 1200,
+              "height": 1600
+            },
+            {
+              "url": "",
+              "url_size_large": "https://sns-na-i2.xhscdn.com/1040g2sg31hc4s9avk2eg5onvo9lkhlcvldhokbo?imageView2/2/w/1440/format/webp&ap=5&sc=SRH_DTL&sign=a1b0252d284c38dcc2af148247cb2442&t=6ab4d7b9",
+              "width": 955,
+              "height": 2275
+            },
+            {
+              "url": "",
+              "url_size_large": "https://sns-na-i2.xhscdn.com/1040g2sg31hc4s9avk2f05onvo9lkhlcv2q4hm38?imageView2/2/w/1440/format/webp&ap=5&sc=SRH_DTL&sign=7c7d1bc5d17dd680a7faa432484fd795&t=6ab4d7b9",
+              "width": 939,
+              "height": 2297
+            }
+          ]
+        }
+      },
+      {
+        "model_type": "note",
+        "note": {
+          "id": "6a8c3a880000000016023a19",
+          "title": "表白墙，表白吧，你喜欢的人看不见#表白墙 #暗恋故事 #挑战向喜欢的人表白 #表",
+          "desc": "表白墙，表白吧，你喜欢的人看不见#表白墙  #暗恋故事  #挑战向喜欢的人表白  #表白套路",
+          "type": "normal",
+          "timestamp": 1787574920,
+          "liked_count": 19,
+          "comments_count": 136,
+          "collected_count": 5,
+          "shared_count": 0,
+          "xsec_token": "YBQd0BCmciU5fDqV4x-m0fQ_NoHfWivqA4LvQFrIlKn9o=",
+          "user": {
+            "nickname": "忘羡一曲远，曲终人不散",
+            "userid": "67051db3000000001d0337b0",
+            "red_id": "94169978411"
+          },
+          "images_list": [
+            {
+              "url": "https://sns-na-i2.xhscdn.com/1040g0083248kbr40go0g5po53mpnedtgjjp0hf8?imageView2/2/w/576/format/webp/q/87%7CimageMogr2/strip&redImage/frame/0&ap=5&sc=SRH_PRV&sign=ce1cca28498d2377116a38426248148a&t=6ab4d7b9",
+              "url_size_large": "https://sns-na-i2.xhscdn.com/1040g0083248kbr40go0g5po53mpnedtgjjp0hf8?imageView2/2/w/1440/format/webp&ap=5&sc=SRH_DTL&sign=ce1cca28498d2377116a38426248148a&t=6ab4d7b9",
+              "width": 1200,
+              "height": 1600
+            }
+          ]
+        }
+      }
+    ],
+    "search_request_id": "trimmed",
+    "query_type": "general"
+  },
+  "next_step": {
+    "action": "call_endpoint",
+    "endpoint_id": "<discovered-at-runtime>",
+    "hint": "Use these params to fetch the next page or more results.",
+    "params": {
+      "keyword": "校园墙 暗恋 表白",
+      "page": 2
+    }
+  },
+  "warnings": []
+}

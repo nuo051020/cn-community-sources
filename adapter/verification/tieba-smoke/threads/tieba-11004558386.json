@@ -1,0 +1,71 @@
+{
+  "schema_version": "1.0.0",
+  "platform": "tieba",
+  "thread_id": "tieba:11004558386",
+  "title": "确诊癌症后 我才舍得点燃高中暗恋对象送的香薰蜡烛 底下露出一张",
+  "url": "https://tieba.baidu.com/p/11004558386",
+  "collection_method": "tieba_public_search_json",
+  "retrieved_at": "2026-09-28T06:22:23Z",
+  "coverage": {
+    "level": "partial",
+    "discovered_pages": 1,
+    "content_pages": 0,
+    "comment_pages": 0,
+    "includes_nested_comments": false,
+    "upstream_reports_more": true,
+    "notes": "公开移动端搜索仅返回摘要与主题帖元数据，正文需用 aiotieba 深挖; 达到页数上限（page_limit=1），上游仍报告更多结果"
+  },
+  "record_count": 1,
+  "comment_count": 0,
+  "records": [
+    {
+      "source_id": "tieba:11004558386",
+      "platform": "tieba",
+      "record_kind": "thread",
+      "source_type": "community",
+      "title": "确诊癌症后 我才舍得点燃高中暗恋对象送的香薰蜡烛 底下露出一张",
+      "url": "https://tieba.baidu.com/p/11004558386",
+      "author_display_name": "思维布局E1",
+      "published_at": "2026-09-07T13:11:04Z",
+      "retrieved_at": "2026-09-28T06:22:23Z",
+      "excerpt": "确诊癌症后，我才舍得点燃高中暗恋对象送的香薰蜡烛。 底下露出一张纸条。 【沈鸢，你来见我，我们就在一起。】 这是一句跨越七年的对话。 我怔了许久，拿起手机。 他上周给我发了消息。 说他要结婚，问我准备随多少份子。 脑子一抽，我转过去九万九。 他秒回：【？】 转都转了，我干脆问。 【婚礼办了吗？没办的话，我能不能去参加？】 1 江驰野没有回复。 下一秒，一个电话打了过来。 「你倒是大方。」 他轻嗤一…",
+      "full_text": "",
+      "publisher": "",
+      "thread_id": null,
+      "parent_id": null,
+      "floor_number": null,
+      "engagement": {
+        "replies": 0,
+        "likes": 0,
+        "shares": 0,
+        "views": 0
+      },
+      "media": [],
+      "collection_method": "tieba_public_search_json",
+      "coverage": {
+        "level": "partial",
+        "discovered_pages": 1,
+        "content_pages": 0,
+        "comment_pages": 0,
+        "includes_nested_comments": false,
+        "upstream_reports_more": true,
+        "notes": "公开移动端搜索仅返回摘要与主题帖元数据，正文需用 aiotieba 深挖; 达到页数上限（page_limit=1），上游仍报告更多结果"
+      },
+      "raw_ref": "raw/tieba-public-search-p1.json",
+      "status": "ok",
+      "error": null,
+      "extra": {
+        "forum_name": "书虫救助站",
+        "forum_id": 27997588,
+        "thread_types": 1024,
+        "search_rank": 6,
+        "page": 1,
+        "discovery_only": true,
+        "content_truncated_by_upstream": true
+      }
+    }
+  ],
+  "comments": [],
+  "comment_tree": [],
+  "run_id": "tieba-smoke"
+}

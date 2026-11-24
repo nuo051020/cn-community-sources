@@ -1,0 +1,71 @@
+{
+  "schema_version": "1.0.0",
+  "platform": "tieba",
+  "thread_id": "tieba:10401934223",
+  "title": "双向暗恋新剧好磕疯了",
+  "url": "https://tieba.baidu.com/p/10401934223",
+  "collection_method": "tieba_public_search_json",
+  "retrieved_at": "2026-09-28T06:07:33Z",
+  "coverage": {
+    "level": "partial",
+    "discovered_pages": 1,
+    "content_pages": 0,
+    "comment_pages": 0,
+    "includes_nested_comments": false,
+    "upstream_reports_more": true,
+    "notes": "公开移动端搜索仅返回摘要与主题帖元数据，正文需用 aiotieba 深挖; 达到页数上限（page_limit=1），上游仍报告更多结果"
+  },
+  "record_count": 1,
+  "comment_count": 0,
+  "records": [
+    {
+      "source_id": "tieba:10401934223",
+      "platform": "tieba",
+      "record_kind": "thread",
+      "source_type": "community",
+      "title": "双向暗恋新剧好磕疯了",
+      "url": "https://tieba.baidu.com/p/10401934223",
+      "author_display_name": "荏苒爱教育",
+      "published_at": "2026-01-16T04:01:19Z",
+      "retrieved_at": "2026-09-28T06:07:33Z",
+      "excerpt": "家人们，又要有暗恋文可追啦！《你是迟来的欢喜》超期待！赶紧加入你们的追剧清单！剧情超带感，28岁的阮喻放弃稳定工作去写作，以自身经历写的小说却被指抄袭。维权时，合作律师竟是高中暗恋对象许淮颂，也是小说男主原型。两人重逢，感情再度升温，面对事业挑战，携手迎来属于他们的“迟来的欢喜”。双向暗恋真的太好嗑，谁懂!魏哲鸣和郑合惠子颜值演技双双在线，一个演精英律师，一个扮甜美作家，CP感直接拉满！预告里的互…",
+      "full_text": "",
+      "publisher": "",
+      "thread_id": null,
+      "parent_id": null,
+      "floor_number": null,
+      "engagement": {
+        "replies": 23,
+        "likes": 4,
+        "shares": 0,
+        "views": 0
+      },
+      "media": [],
+      "collection_method": "tieba_public_search_json",
+      "coverage": {
+        "level": "partial",
+        "discovered_pages": 1,
+        "content_pages": 0,
+        "comment_pages": 0,
+        "includes_nested_comments": false,
+        "upstream_reports_more": true,
+        "notes": "公开移动端搜索仅返回摘要与主题帖元数据，正文需用 aiotieba 深挖; 达到页数上限（page_limit=1），上游仍报告更多结果"
+      },
+      "raw_ref": "raw/tieba-public-search-p1.json",
+      "status": "ok",
+      "error": null,
+      "extra": {
+        "forum_name": "影剧热评",
+        "forum_id": 23098712,
+        "thread_types": 1040,
+        "search_rank": 19,
+        "page": 1,
+        "discovery_only": true,
+        "content_truncated_by_upstream": true
+      }
+    }
+  ],
+  "comments": [],
+  "comment_tree": [],
+  "run_id": "tieba-smoke"
+}

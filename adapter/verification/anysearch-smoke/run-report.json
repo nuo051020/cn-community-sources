@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0.0",
+  "run_id": "anysearch-smoke",
+  "mode": "anysearch",
+  "query": "高中 暗恋 故事",
+  "status": "ok",
+  "termination": "unknown",
+  "started_at": "2026-09-28T06:22:23Z",
+  "finished_at": "2026-09-28T06:22:26Z",
+  "providers": [
+    {
+      "provider": "anysearch",
+      "status": "ready",
+      "detail": "解析 3 条搜索结果",
+      "capabilities": [],
+      "checked_at": "2026-09-28T06:22:26Z"
+    }
+  ],
+  "calls": 1,
+  "from_cache": 0,
+  "pages": 1,
+  "records": 3,
+  "comments": 0,
+  "threads": 3,
+  "failures": [],
+  "gaps": [],
+  "coverage": {
+    "level": "partial",
+    "discovered_pages": 1,
+    "content_pages": 0,
+    "comment_pages": 0,
+    "includes_nested_comments": false,
+    "upstream_reports_more": false,
+    "notes": "AnySearch 仅返回搜索摘要，正文请使用 anysearch-extract 或网页正文提取"
+  },
+  "limits": [
+    "AnySearch 仅返回搜索摘要，正文请使用 anysearch-extract 或网页正文提取"
+  ],
+  "cost": {
+    "paid_calls": 0,
+    "estimated_cost": "0",
+    "measured": {},
+    "note": "本管线不产生费用；Just One API 的付费批量调用必须由用户单独确认后才在会话内执行"
+  },
+  "audit": [],
+  "written": {
+    "raw/anysearch-search-1.md": "verification/anysearch-smoke/raw/anysearch-search-1.md",
+    "records.jsonl": "verification/anysearch-smoke/records.jsonl",
+    "threads/anysearch-url-366ba5a3095b69bd.json": "verification/anysearch-smoke/threads/anysearch-url-366ba5a3095b69bd.json",
+    "threads/anysearch-url-27197a5585375f0f.json": "verification/anysearch-smoke/threads/anysearch-url-27197a5585375f0f.json",
+    "threads/anysearch-url-d81b98b1573bddb7.json": "verification/anysearch-smoke/threads/anysearch-url-d81b98b1573bddb7.json",
+    "search-agent-input.json": "verification/anysearch-smoke/search-agent-input.json"
+  },
+  "exclusions": [
+    "不使用 Computer Use 类桌面操控",
+    "不使用任何浏览器自动化框架",
+    "不绕过验证码、登录墙或访问控制",
+    "不执行发帖、点赞、关注、私信等账号操作",
+    "不采集或推断敏感个人信息，公开昵称仅用于原文定位"
+  ]
+}

@@ -1,0 +1,19 @@
+[run]
+output_root = "../var/source-adapter/outputs"
+cache_dir = "../var/source-adapter/cache"
+concurrency = 1
+request_spacing_seconds = 2.0
+max_retries = 3
+max_response_bytes = 2000000
+anysearch_timeout_seconds = 60.0
+anysearch_max_output = 500000
+anysearch_skill_dir = ""
+tieba_search_url = "https://tieba.baidu.com/mo/q/search/thread"
+tieba_page_size = 20
+tieba_page_limit = 1
+aiotieba_page_limit = 1
+aiotieba_include_nested = false
+justone_server = "justoneapi"
+justone_mcp_url = "https://mcp.justoneapi.com/mcp"
+justone_max_calls = 20
+justone_discover_limit = 8

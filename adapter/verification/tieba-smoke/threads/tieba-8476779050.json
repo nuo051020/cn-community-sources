@@ -1,0 +1,71 @@
+{
+  "schema_version": "1.0.0",
+  "platform": "tieba",
+  "thread_id": "tieba:8476779050",
+  "title": "记我匆匆完结的暗恋",
+  "url": "https://tieba.baidu.com/p/8476779050",
+  "collection_method": "tieba_public_search_json",
+  "retrieved_at": "2026-09-28T06:07:33Z",
+  "coverage": {
+    "level": "partial",
+    "discovered_pages": 1,
+    "content_pages": 0,
+    "comment_pages": 0,
+    "includes_nested_comments": false,
+    "upstream_reports_more": true,
+    "notes": "公开移动端搜索仅返回摘要与主题帖元数据，正文需用 aiotieba 深挖; 达到页数上限（page_limit=1），上游仍报告更多结果"
+  },
+  "record_count": 1,
+  "comment_count": 0,
+  "records": [
+    {
+      "source_id": "tieba:8476779050",
+      "platform": "tieba",
+      "record_kind": "thread",
+      "source_type": "community",
+      "title": "记我匆匆完结的暗恋",
+      "url": "https://tieba.baidu.com/p/8476779050",
+      "author_display_name": "暗角色",
+      "published_at": "2023-06-25T12:05:25Z",
+      "retrieved_at": "2026-09-28T06:07:33Z",
+      "excerpt": "lz是个净身高172的算是比较高的女生吧，喜欢一个差不多165的男生很久了，这是我第一次也是如今唯一一次喜欢一个男生，从高中二年级暗恋到大学二年级。可惜lz是个比较宅又比较内向的人，与他的交谈甚少且完全不敢去表达自己的心意，最大胆的事便是每年在他生日的时候送给他一个匿名的礼物并且附上一个匿名的生日祝福贺卡。而今晚在朋友圈里看见他官宣恋爱了，对象是一个一米六左右的可爱型女孩，和我完全相反的那种，lz…",
+      "full_text": "",
+      "publisher": "",
+      "thread_id": null,
+      "parent_id": null,
+      "floor_number": null,
+      "engagement": {
+        "replies": 257,
+        "likes": 443,
+        "shares": 1,
+        "views": 0
+      },
+      "media": [],
+      "collection_method": "tieba_public_search_json",
+      "coverage": {
+        "level": "partial",
+        "discovered_pages": 1,
+        "content_pages": 0,
+        "comment_pages": 0,
+        "includes_nested_comments": false,
+        "upstream_reports_more": true,
+        "notes": "公开移动端搜索仅返回摘要与主题帖元数据，正文需用 aiotieba 深挖; 达到页数上限（page_limit=1），上游仍报告更多结果"
+      },
+      "raw_ref": "raw/tieba-public-search-p1.json",
+      "status": "ok",
+      "error": null,
+      "extra": {
+        "forum_name": "核战避难所",
+        "forum_id": 17641967,
+        "thread_types": 1024,
+        "search_rank": 16,
+        "page": 1,
+        "discovery_only": true,
+        "content_truncated_by_upstream": true
+      }
+    }
+  ],
+  "comments": [],
+  "comment_tree": [],
+  "run_id": "tieba-smoke"
+}

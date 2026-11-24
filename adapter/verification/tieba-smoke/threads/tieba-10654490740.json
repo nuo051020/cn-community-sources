@@ -1,0 +1,71 @@
+{
+  "schema_version": "1.0.0",
+  "platform": "tieba",
+  "thread_id": "tieba:10654490740",
+  "title": "【碎碎念】后悔高中最后都没有大胆表白",
+  "url": "https://tieba.baidu.com/p/10654490740",
+  "collection_method": "tieba_public_search_json",
+  "retrieved_at": "2026-09-28T06:07:33Z",
+  "coverage": {
+    "level": "partial",
+    "discovered_pages": 1,
+    "content_pages": 0,
+    "comment_pages": 0,
+    "includes_nested_comments": false,
+    "upstream_reports_more": true,
+    "notes": "公开移动端搜索仅返回摘要与主题帖元数据，正文需用 aiotieba 深挖; 达到页数上限（page_limit=1），上游仍报告更多结果"
+  },
+  "record_count": 1,
+  "comment_count": 0,
+  "records": [
+    {
+      "source_id": "tieba:10654490740",
+      "platform": "tieba",
+      "record_kind": "thread",
+      "source_type": "community",
+      "title": "【碎碎念】后悔高中最后都没有大胆表白",
+      "url": "https://tieba.baidu.com/p/10654490740",
+      "author_display_name": "喜欢做梦c",
+      "published_at": "2026-04-20T09:34:44Z",
+      "retrieved_at": "2026-09-28T06:07:33Z",
+      "excerpt": "现在我研二，最近经常看b站的通讯录情感访谈节目，昨天还和几个朋友一起聊到过去的情感经历，就想起了高中暗恋2年多的男生。",
+      "full_text": "",
+      "publisher": "",
+      "thread_id": null,
+      "parent_id": null,
+      "floor_number": null,
+      "engagement": {
+        "replies": 46,
+        "likes": 55,
+        "shares": 2,
+        "views": 0
+      },
+      "media": [],
+      "collection_method": "tieba_public_search_json",
+      "coverage": {
+        "level": "partial",
+        "discovered_pages": 1,
+        "content_pages": 0,
+        "comment_pages": 0,
+        "includes_nested_comments": false,
+        "upstream_reports_more": true,
+        "notes": "公开移动端搜索仅返回摘要与主题帖元数据，正文需用 aiotieba 深挖; 达到页数上限（page_limit=1），上游仍报告更多结果"
+      },
+      "raw_ref": "raw/tieba-public-search-p1.json",
+      "status": "ok",
+      "error": null,
+      "extra": {
+        "forum_name": "肩上的脚丫",
+        "forum_id": 2105327,
+        "thread_types": 1024,
+        "search_rank": 7,
+        "page": 1,
+        "discovery_only": true,
+        "content_truncated_by_upstream": true
+      }
+    }
+  ],
+  "comments": [],
+  "comment_tree": [],
+  "run_id": "tieba-smoke"
+}

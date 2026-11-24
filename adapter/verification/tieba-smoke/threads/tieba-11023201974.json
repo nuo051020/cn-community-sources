@@ -1,0 +1,71 @@
+{
+  "schema_version": "1.0.0",
+  "platform": "tieba",
+  "thread_id": "tieba:11023201974",
+  "title": "大家觉得高中没谈过算不算一种遗憾",
+  "url": "https://tieba.baidu.com/p/11023201974",
+  "collection_method": "tieba_public_search_json",
+  "retrieved_at": "2026-09-28T06:07:33Z",
+  "coverage": {
+    "level": "partial",
+    "discovered_pages": 1,
+    "content_pages": 0,
+    "comment_pages": 0,
+    "includes_nested_comments": false,
+    "upstream_reports_more": true,
+    "notes": "公开移动端搜索仅返回摘要与主题帖元数据，正文需用 aiotieba 深挖; 达到页数上限（page_limit=1），上游仍报告更多结果"
+  },
+  "record_count": 1,
+  "comment_count": 0,
+  "records": [
+    {
+      "source_id": "tieba:11023201974",
+      "platform": "tieba",
+      "record_kind": "thread",
+      "source_type": "community",
+      "title": "大家觉得高中没谈过算不算一种遗憾",
+      "url": "https://tieba.baidu.com/p/11023201974",
+      "author_display_name": "宇航鱼🐟",
+      "published_at": "2026-09-14T13:34:19Z",
+      "retrieved_at": "2026-09-28T06:07:33Z",
+      "excerpt": "高中因为内向性取向和正常人不一样，很难找到同好，只能一直暗恋别人，从来不敢和对方见面。说起来我高中生加暗恋对象qq的理由都是说想一起学习，讨教学习方法?现在想想觉得太羞耻了，太假了，对方估计一眼就能看出你的心思，大多数直男甚至可能觉得一个男生天天找他聊天觉得恶心，不过是在小县城，我也不敢有过多的接触，一切的交流都是在QQ上，直到高中毕业也没有见过面(我当然知道对方长什么样子，对方不知道我)[表情]…",
+      "full_text": "",
+      "publisher": "",
+      "thread_id": null,
+      "parent_id": null,
+      "floor_number": null,
+      "engagement": {
+        "replies": 25,
+        "likes": 40,
+        "shares": 0,
+        "views": 0
+      },
+      "media": [],
+      "collection_method": "tieba_public_search_json",
+      "coverage": {
+        "level": "partial",
+        "discovered_pages": 1,
+        "content_pages": 0,
+        "comment_pages": 0,
+        "includes_nested_comments": false,
+        "upstream_reports_more": true,
+        "notes": "公开移动端搜索仅返回摘要与主题帖元数据，正文需用 aiotieba 深挖; 达到页数上限（page_limit=1），上游仍报告更多结果"
+      },
+      "raw_ref": "raw/tieba-public-search-p1.json",
+      "status": "ok",
+      "error": null,
+      "extra": {
+        "forum_name": "阳光积极暖男",
+        "forum_id": 28102964,
+        "thread_types": 1040,
+        "search_rank": 8,
+        "page": 1,
+        "discovery_only": true,
+        "content_truncated_by_upstream": true
+      }
+    }
+  ],
+  "comments": [],
+  "comment_tree": [],
+  "run_id": "tieba-smoke"
+}

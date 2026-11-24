@@ -1,0 +1,71 @@
+{
+  "schema_version": "1.0.0",
+  "platform": "tieba",
+  "thread_id": "tieba:11052896834",
+  "title": "网友案例——不要手yin",
+  "url": "https://tieba.baidu.com/p/11052896834",
+  "collection_method": "tieba_public_search_json",
+  "retrieved_at": "2026-09-28T06:07:33Z",
+  "coverage": {
+    "level": "partial",
+    "discovered_pages": 1,
+    "content_pages": 0,
+    "comment_pages": 0,
+    "includes_nested_comments": false,
+    "upstream_reports_more": true,
+    "notes": "公开移动端搜索仅返回摘要与主题帖元数据，正文需用 aiotieba 深挖; 达到页数上限（page_limit=1），上游仍报告更多结果"
+  },
+  "record_count": 1,
+  "comment_count": 0,
+  "records": [
+    {
+      "source_id": "tieba:11052896834",
+      "platform": "tieba",
+      "record_kind": "thread",
+      "source_type": "community",
+      "title": "网友案例——不要手yin",
+      "url": "https://tieba.baidu.com/p/11052896834",
+      "author_display_name": "袁旺仔笑哈哈",
+      "published_at": "2026-09-25T07:55:07Z",
+      "retrieved_at": "2026-09-28T06:07:33Z",
+      "excerpt": "戒友案例—不要手yin ?我25岁，从记事起就手y，y欲心特别重。从小学就谈恋爱，暗恋，高中就伤害了女孩，辍学打工，见一个睡一个，而且交往的女生都好se，矮小丑陋！由不得我做主，我内心并不喜欢，只是好se！从来没有交往一个白富美，交往了一个又一个，互相伤害吧。 ?工作从来只干几天就换，从来不超过三个月，有时候干一天就跑了，几乎没挣过钱，全是父母给。我也不想，我也迷惑，我也痛苦，我也想努力，不想好s…",
+      "full_text": "",
+      "publisher": "",
+      "thread_id": null,
+      "parent_id": null,
+      "floor_number": null,
+      "engagement": {
+        "replies": 22,
+        "likes": 60,
+        "shares": 2,
+        "views": 0
+      },
+      "media": [],
+      "collection_method": "tieba_public_search_json",
+      "coverage": {
+        "level": "partial",
+        "discovered_pages": 1,
+        "content_pages": 0,
+        "comment_pages": 0,
+        "includes_nested_comments": false,
+        "upstream_reports_more": true,
+        "notes": "公开移动端搜索仅返回摘要与主题帖元数据，正文需用 aiotieba 深挖; 达到页数上限（page_limit=1），上游仍报告更多结果"
+      },
+      "raw_ref": "raw/tieba-public-search-p1.json",
+      "status": "ok",
+      "error": null,
+      "extra": {
+        "forum_name": "相亲",
+        "forum_id": 548416,
+        "thread_types": 1024,
+        "search_rank": 5,
+        "page": 1,
+        "discovery_only": true,
+        "content_truncated_by_upstream": true
+      }
+    }
+  ],
+  "comments": [],
+  "comment_tree": [],
+  "run_id": "tieba-smoke"
+}
